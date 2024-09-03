@@ -2052,6 +2052,58 @@ exp12_9/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_9.dir\build.make CMakeFiles/exp12_9.dir/build
 .PHONY : exp12_9/fast
 
+#=============================================================================
+# Target rules for targets named exp12_10
+
+# Build rule for target.
+exp12_10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 exp12_10
+.PHONY : exp12_10
+
+# fast build rule for target.
+exp12_10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/build
+.PHONY : exp12_10/fast
+
+#=============================================================================
+# Target rules for targets named exp12_11
+
+# Build rule for target.
+exp12_11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 exp12_11
+.PHONY : exp12_11
+
+# fast build rule for target.
+exp12_11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/build
+.PHONY : exp12_11/fast
+
+#=============================================================================
+# Target rules for targets named pra12_7
+
+# Build rule for target.
+pra12_7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra12_7
+.PHONY : pra12_7
+
+# fast build rule for target.
+pra12_7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/build
+.PHONY : pra12_7/fast
+
+#=============================================================================
+# Target rules for targets named pra12_8
+
+# Build rule for target.
+pra12_8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra12_8
+.PHONY : pra12_8
+
+# fast build rule for target.
+pra12_8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_8.dir\build.make CMakeFiles/pra12_8.dir/build
+.PHONY : pra12_8/fast
+
 ch10/exp10_1.obj: ch10/exp10_1.cpp.obj
 .PHONY : ch10/exp10_1.obj
 
@@ -2868,6 +2920,54 @@ ch12/exp12_1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_1.dir\build.make CMakeFiles/exp12_1.dir/ch12/exp12_1.cpp.s
 .PHONY : ch12/exp12_1.cpp.s
 
+ch12/exp12_10.obj: ch12/exp12_10.cpp.obj
+.PHONY : ch12/exp12_10.obj
+
+# target to build an object file
+ch12/exp12_10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/ch12/exp12_10.cpp.obj
+.PHONY : ch12/exp12_10.cpp.obj
+
+ch12/exp12_10.i: ch12/exp12_10.cpp.i
+.PHONY : ch12/exp12_10.i
+
+# target to preprocess a source file
+ch12/exp12_10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/ch12/exp12_10.cpp.i
+.PHONY : ch12/exp12_10.cpp.i
+
+ch12/exp12_10.s: ch12/exp12_10.cpp.s
+.PHONY : ch12/exp12_10.s
+
+# target to generate assembly for a file
+ch12/exp12_10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/ch12/exp12_10.cpp.s
+.PHONY : ch12/exp12_10.cpp.s
+
+ch12/exp12_11.obj: ch12/exp12_11.cpp.obj
+.PHONY : ch12/exp12_11.obj
+
+# target to build an object file
+ch12/exp12_11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/ch12/exp12_11.cpp.obj
+.PHONY : ch12/exp12_11.cpp.obj
+
+ch12/exp12_11.i: ch12/exp12_11.cpp.i
+.PHONY : ch12/exp12_11.i
+
+# target to preprocess a source file
+ch12/exp12_11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/ch12/exp12_11.cpp.i
+.PHONY : ch12/exp12_11.cpp.i
+
+ch12/exp12_11.s: ch12/exp12_11.cpp.s
+.PHONY : ch12/exp12_11.s
+
+# target to generate assembly for a file
+ch12/exp12_11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/ch12/exp12_11.cpp.s
+.PHONY : ch12/exp12_11.cpp.s
+
 ch12/exp12_2.obj: ch12/exp12_2.cpp.obj
 .PHONY : ch12/exp12_2.obj
 
@@ -3203,6 +3303,54 @@ ch12/pra12_6.s: ch12/pra12_6.cpp.s
 ch12/pra12_6.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_6.dir\build.make CMakeFiles/pra12_6.dir/ch12/pra12_6.cpp.s
 .PHONY : ch12/pra12_6.cpp.s
+
+ch12/pra12_7.obj: ch12/pra12_7.cpp.obj
+.PHONY : ch12/pra12_7.obj
+
+# target to build an object file
+ch12/pra12_7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/ch12/pra12_7.cpp.obj
+.PHONY : ch12/pra12_7.cpp.obj
+
+ch12/pra12_7.i: ch12/pra12_7.cpp.i
+.PHONY : ch12/pra12_7.i
+
+# target to preprocess a source file
+ch12/pra12_7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/ch12/pra12_7.cpp.i
+.PHONY : ch12/pra12_7.cpp.i
+
+ch12/pra12_7.s: ch12/pra12_7.cpp.s
+.PHONY : ch12/pra12_7.s
+
+# target to generate assembly for a file
+ch12/pra12_7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/ch12/pra12_7.cpp.s
+.PHONY : ch12/pra12_7.cpp.s
+
+ch12/pra12_8.obj: ch12/pra12_8.cpp.obj
+.PHONY : ch12/pra12_8.obj
+
+# target to build an object file
+ch12/pra12_8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_8.dir\build.make CMakeFiles/pra12_8.dir/ch12/pra12_8.cpp.obj
+.PHONY : ch12/pra12_8.cpp.obj
+
+ch12/pra12_8.i: ch12/pra12_8.cpp.i
+.PHONY : ch12/pra12_8.i
+
+# target to preprocess a source file
+ch12/pra12_8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_8.dir\build.make CMakeFiles/pra12_8.dir/ch12/pra12_8.cpp.i
+.PHONY : ch12/pra12_8.cpp.i
+
+ch12/pra12_8.s: ch12/pra12_8.cpp.s
+.PHONY : ch12/pra12_8.s
+
+# target to generate assembly for a file
+ch12/pra12_8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_8.dir\build.make CMakeFiles/pra12_8.dir/ch12/pra12_8.cpp.s
+.PHONY : ch12/pra12_8.cpp.s
 
 ch2/exp2_1.obj: ch2/exp2_1.cpp.obj
 .PHONY : ch2/exp2_1.obj
@@ -5658,6 +5806,8 @@ help:
 	@echo ... exp11_8
 	@echo ... exp11_9
 	@echo ... exp12_1
+	@echo ... exp12_10
+	@echo ... exp12_11
 	@echo ... exp12_2
 	@echo ... exp12_3
 	@echo ... exp12_4
@@ -5748,6 +5898,8 @@ help:
 	@echo ... pra12_4
 	@echo ... pra12_5
 	@echo ... pra12_6
+	@echo ... pra12_7
+	@echo ... pra12_8
 	@echo ... pra3_1
 	@echo ... pra3_2
 	@echo ... pra3_3
@@ -5887,6 +6039,12 @@ help:
 	@echo ... ch12/exp12_1.obj
 	@echo ... ch12/exp12_1.i
 	@echo ... ch12/exp12_1.s
+	@echo ... ch12/exp12_10.obj
+	@echo ... ch12/exp12_10.i
+	@echo ... ch12/exp12_10.s
+	@echo ... ch12/exp12_11.obj
+	@echo ... ch12/exp12_11.i
+	@echo ... ch12/exp12_11.s
 	@echo ... ch12/exp12_2.obj
 	@echo ... ch12/exp12_2.i
 	@echo ... ch12/exp12_2.s
@@ -5929,6 +6087,12 @@ help:
 	@echo ... ch12/pra12_6.obj
 	@echo ... ch12/pra12_6.i
 	@echo ... ch12/pra12_6.s
+	@echo ... ch12/pra12_7.obj
+	@echo ... ch12/pra12_7.i
+	@echo ... ch12/pra12_7.s
+	@echo ... ch12/pra12_8.obj
+	@echo ... ch12/pra12_8.i
+	@echo ... ch12/pra12_8.s
 	@echo ... ch2/exp2_1.obj
 	@echo ... ch2/exp2_1.i
 	@echo ... ch2/exp2_1.s
