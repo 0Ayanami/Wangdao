@@ -6443,6 +6443,510 @@
 					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="pra1">
+				<Option output="D:/cppExam/cmake-build-debug/pra1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra1"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra1/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra1/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra2">
+				<Option output="D:/cppExam/cmake-build-debug/pra2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra2"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra2/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra2/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra3">
+				<Option output="D:/cppExam/cmake-build-debug/pra3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra3"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra3/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra3/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra4">
+				<Option output="D:/cppExam/cmake-build-debug/pra4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra4"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra4/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra4/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra5">
+				<Option output="D:/cppExam/cmake-build-debug/pra5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra5"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra5/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra5/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra6">
+				<Option output="D:/cppExam/cmake-build-debug/pra6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra6"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra6/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra6/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra7">
+				<Option output="D:/cppExam/cmake-build-debug/pra7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra7"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra7/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra7/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra8">
+				<Option output="D:/cppExam/cmake-build-debug/pra8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra8"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra8/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra8/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra9">
+				<Option output="D:/cppExam/cmake-build-debug/pra9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra9"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra9/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra9/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra10">
+				<Option output="D:/cppExam/cmake-build-debug/pra10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra10"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra10/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra10/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra11">
+				<Option output="D:/cppExam/cmake-build-debug/pra11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra11"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra11/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra11.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra11/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra12">
+				<Option output="D:/cppExam/cmake-build-debug/pra12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra12"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pra12/fast">
+				<Option output="D:/cppExam/cmake-build-debug/pra12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppExam/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 pra12/fast"/>
+					<CompileFile command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/cppExam/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/cppExam/cmake-build-debug"/>
 				<Option type="4"/>
@@ -6919,6 +7423,42 @@
 		</Unit>
 		<Unit filename="D:/cppExam/ch9/pra9_3.cpp">
 			<Option target="pra9_3"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra1.cpp">
+			<Option target="pra1"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra10.cpp">
+			<Option target="pra10"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra11.cpp">
+			<Option target="pra11"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra12.cpp">
+			<Option target="pra12"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra2.cpp">
+			<Option target="pra2"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra3.cpp">
+			<Option target="pra3"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra4.cpp">
+			<Option target="pra4"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra5.cpp">
+			<Option target="pra5"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra6.cpp">
+			<Option target="pra6"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra7.cpp">
+			<Option target="pra7"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra8.cpp">
+			<Option target="pra8"/>
+		</Unit>
+		<Unit filename="D:/cppExam/hust/pra9.cpp">
+			<Option target="pra9"/>
 		</Unit>
 		<Unit filename="D:/cppExam/test.cpp">
 			<Option target="test"/>

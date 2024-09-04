@@ -151,5 +151,17 @@ D:/cppExam/cmake-build-debug/CMakeFiles/exp12_10.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/exp12_11.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/pra12_7.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/pra12_8.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra1.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra2.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra3.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra4.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra5.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra6.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra7.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra8.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra9.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra10.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra11.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/pra12.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
