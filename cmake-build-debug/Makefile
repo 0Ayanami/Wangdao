@@ -2260,6 +2260,97 @@ pra12/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12.dir\build.make CMakeFiles/pra12.dir/build
 .PHONY : pra12/fast
 
+#=============================================================================
+# Target rules for targets named pra13
+
+# Build rule for target.
+pra13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra13
+.PHONY : pra13
+
+# fast build rule for target.
+pra13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/build
+.PHONY : pra13/fast
+
+#=============================================================================
+# Target rules for targets named pra14
+
+# Build rule for target.
+pra14: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra14
+.PHONY : pra14
+
+# fast build rule for target.
+pra14/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/build
+.PHONY : pra14/fast
+
+#=============================================================================
+# Target rules for targets named pra15
+
+# Build rule for target.
+pra15: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra15
+.PHONY : pra15
+
+# fast build rule for target.
+pra15/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/build
+.PHONY : pra15/fast
+
+#=============================================================================
+# Target rules for targets named pra16
+
+# Build rule for target.
+pra16: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra16
+.PHONY : pra16
+
+# fast build rule for target.
+pra16/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/build
+.PHONY : pra16/fast
+
+#=============================================================================
+# Target rules for targets named pra17
+
+# Build rule for target.
+pra17: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra17
+.PHONY : pra17
+
+# fast build rule for target.
+pra17/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra17.dir\build.make CMakeFiles/pra17.dir/build
+.PHONY : pra17/fast
+
+#=============================================================================
+# Target rules for targets named pra18
+
+# Build rule for target.
+pra18: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra18
+.PHONY : pra18
+
+# fast build rule for target.
+pra18/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/build
+.PHONY : pra18/fast
+
+#=============================================================================
+# Target rules for targets named pra19
+
+# Build rule for target.
+pra19: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pra19
+.PHONY : pra19
+
+# fast build rule for target.
+pra19/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/build
+.PHONY : pra19/fast
+
 ch10/exp10_1.obj: ch10/exp10_1.cpp.obj
 .PHONY : ch10/exp10_1.obj
 
@@ -6004,6 +6095,174 @@ hust/pra12.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12.dir\build.make CMakeFiles/pra12.dir/hust/pra12.cpp.s
 .PHONY : hust/pra12.cpp.s
 
+hust/pra13.obj: hust/pra13.cpp.obj
+.PHONY : hust/pra13.obj
+
+# target to build an object file
+hust/pra13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/hust/pra13.cpp.obj
+.PHONY : hust/pra13.cpp.obj
+
+hust/pra13.i: hust/pra13.cpp.i
+.PHONY : hust/pra13.i
+
+# target to preprocess a source file
+hust/pra13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/hust/pra13.cpp.i
+.PHONY : hust/pra13.cpp.i
+
+hust/pra13.s: hust/pra13.cpp.s
+.PHONY : hust/pra13.s
+
+# target to generate assembly for a file
+hust/pra13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/hust/pra13.cpp.s
+.PHONY : hust/pra13.cpp.s
+
+hust/pra14.obj: hust/pra14.cpp.obj
+.PHONY : hust/pra14.obj
+
+# target to build an object file
+hust/pra14.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/hust/pra14.cpp.obj
+.PHONY : hust/pra14.cpp.obj
+
+hust/pra14.i: hust/pra14.cpp.i
+.PHONY : hust/pra14.i
+
+# target to preprocess a source file
+hust/pra14.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/hust/pra14.cpp.i
+.PHONY : hust/pra14.cpp.i
+
+hust/pra14.s: hust/pra14.cpp.s
+.PHONY : hust/pra14.s
+
+# target to generate assembly for a file
+hust/pra14.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/hust/pra14.cpp.s
+.PHONY : hust/pra14.cpp.s
+
+hust/pra15.obj: hust/pra15.cpp.obj
+.PHONY : hust/pra15.obj
+
+# target to build an object file
+hust/pra15.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/hust/pra15.cpp.obj
+.PHONY : hust/pra15.cpp.obj
+
+hust/pra15.i: hust/pra15.cpp.i
+.PHONY : hust/pra15.i
+
+# target to preprocess a source file
+hust/pra15.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/hust/pra15.cpp.i
+.PHONY : hust/pra15.cpp.i
+
+hust/pra15.s: hust/pra15.cpp.s
+.PHONY : hust/pra15.s
+
+# target to generate assembly for a file
+hust/pra15.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/hust/pra15.cpp.s
+.PHONY : hust/pra15.cpp.s
+
+hust/pra16.obj: hust/pra16.cpp.obj
+.PHONY : hust/pra16.obj
+
+# target to build an object file
+hust/pra16.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/hust/pra16.cpp.obj
+.PHONY : hust/pra16.cpp.obj
+
+hust/pra16.i: hust/pra16.cpp.i
+.PHONY : hust/pra16.i
+
+# target to preprocess a source file
+hust/pra16.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/hust/pra16.cpp.i
+.PHONY : hust/pra16.cpp.i
+
+hust/pra16.s: hust/pra16.cpp.s
+.PHONY : hust/pra16.s
+
+# target to generate assembly for a file
+hust/pra16.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/hust/pra16.cpp.s
+.PHONY : hust/pra16.cpp.s
+
+hust/pra17.obj: hust/pra17.cpp.obj
+.PHONY : hust/pra17.obj
+
+# target to build an object file
+hust/pra17.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra17.dir\build.make CMakeFiles/pra17.dir/hust/pra17.cpp.obj
+.PHONY : hust/pra17.cpp.obj
+
+hust/pra17.i: hust/pra17.cpp.i
+.PHONY : hust/pra17.i
+
+# target to preprocess a source file
+hust/pra17.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra17.dir\build.make CMakeFiles/pra17.dir/hust/pra17.cpp.i
+.PHONY : hust/pra17.cpp.i
+
+hust/pra17.s: hust/pra17.cpp.s
+.PHONY : hust/pra17.s
+
+# target to generate assembly for a file
+hust/pra17.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra17.dir\build.make CMakeFiles/pra17.dir/hust/pra17.cpp.s
+.PHONY : hust/pra17.cpp.s
+
+hust/pra18.obj: hust/pra18.cpp.obj
+.PHONY : hust/pra18.obj
+
+# target to build an object file
+hust/pra18.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/hust/pra18.cpp.obj
+.PHONY : hust/pra18.cpp.obj
+
+hust/pra18.i: hust/pra18.cpp.i
+.PHONY : hust/pra18.i
+
+# target to preprocess a source file
+hust/pra18.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/hust/pra18.cpp.i
+.PHONY : hust/pra18.cpp.i
+
+hust/pra18.s: hust/pra18.cpp.s
+.PHONY : hust/pra18.s
+
+# target to generate assembly for a file
+hust/pra18.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/hust/pra18.cpp.s
+.PHONY : hust/pra18.cpp.s
+
+hust/pra19.obj: hust/pra19.cpp.obj
+.PHONY : hust/pra19.obj
+
+# target to build an object file
+hust/pra19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/hust/pra19.cpp.obj
+.PHONY : hust/pra19.cpp.obj
+
+hust/pra19.i: hust/pra19.cpp.i
+.PHONY : hust/pra19.i
+
+# target to preprocess a source file
+hust/pra19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/hust/pra19.cpp.i
+.PHONY : hust/pra19.cpp.i
+
+hust/pra19.s: hust/pra19.cpp.s
+.PHONY : hust/pra19.s
+
+# target to generate assembly for a file
+hust/pra19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/hust/pra19.cpp.s
+.PHONY : hust/pra19.cpp.s
+
 hust/pra2.obj: hust/pra2.cpp.obj
 .PHONY : hust/pra2.obj
 
@@ -6348,6 +6607,13 @@ help:
 	@echo ... pra12_6
 	@echo ... pra12_7
 	@echo ... pra12_8
+	@echo ... pra13
+	@echo ... pra14
+	@echo ... pra15
+	@echo ... pra16
+	@echo ... pra17
+	@echo ... pra18
+	@echo ... pra19
 	@echo ... pra2
 	@echo ... pra3
 	@echo ... pra3_1
@@ -6861,6 +7127,27 @@ help:
 	@echo ... hust/pra12.obj
 	@echo ... hust/pra12.i
 	@echo ... hust/pra12.s
+	@echo ... hust/pra13.obj
+	@echo ... hust/pra13.i
+	@echo ... hust/pra13.s
+	@echo ... hust/pra14.obj
+	@echo ... hust/pra14.i
+	@echo ... hust/pra14.s
+	@echo ... hust/pra15.obj
+	@echo ... hust/pra15.i
+	@echo ... hust/pra15.s
+	@echo ... hust/pra16.obj
+	@echo ... hust/pra16.i
+	@echo ... hust/pra16.s
+	@echo ... hust/pra17.obj
+	@echo ... hust/pra17.i
+	@echo ... hust/pra17.s
+	@echo ... hust/pra18.obj
+	@echo ... hust/pra18.i
+	@echo ... hust/pra18.s
+	@echo ... hust/pra19.obj
+	@echo ... hust/pra19.i
+	@echo ... hust/pra19.s
 	@echo ... hust/pra2.obj
 	@echo ... hust/pra2.i
 	@echo ... hust/pra2.s
