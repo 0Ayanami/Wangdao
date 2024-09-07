@@ -234,6 +234,13 @@ all: CMakeFiles/pra16.dir/all
 all: CMakeFiles/pra17.dir/all
 all: CMakeFiles/pra18.dir/all
 all: CMakeFiles/pra19.dir/all
+all: CMakeFiles/ac2.dir/all
+all: CMakeFiles/ac1.dir/all
+all: CMakeFiles/ac3.dir/all
+all: CMakeFiles/ac4.dir/all
+all: CMakeFiles/ac5.dir/all
+all: CMakeFiles/ac6.dir/all
+all: CMakeFiles/ac7.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -413,6 +420,13 @@ clean: CMakeFiles/pra16.dir/clean
 clean: CMakeFiles/pra17.dir/clean
 clean: CMakeFiles/pra18.dir/clean
 clean: CMakeFiles/pra19.dir/clean
+clean: CMakeFiles/ac2.dir/clean
+clean: CMakeFiles/ac1.dir/clean
+clean: CMakeFiles/ac3.dir/clean
+clean: CMakeFiles/ac4.dir/clean
+clean: CMakeFiles/ac5.dir/clean
+clean: CMakeFiles/ac6.dir/clean
+clean: CMakeFiles/ac7.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -422,7 +436,7 @@ clean: CMakeFiles/pra19.dir/clean
 CMakeFiles/exp2_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_1.dir\build.make CMakeFiles/exp2_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_1.dir\build.make CMakeFiles/exp2_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=19 "Built target exp2_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=22 "Built target exp2_1"
 .PHONY : CMakeFiles/exp2_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -448,12 +462,12 @@ CMakeFiles/exp2_1.dir/clean:
 CMakeFiles/exp2_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_2.dir\build.make CMakeFiles/exp2_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_2.dir\build.make CMakeFiles/exp2_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=25 "Built target exp2_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp2_2"
 .PHONY : CMakeFiles/exp2_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp2_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp2_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp2_2.dir/rule
@@ -474,12 +488,12 @@ CMakeFiles/exp2_2.dir/clean:
 CMakeFiles/exp2_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_3.dir\build.make CMakeFiles/exp2_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_3.dir\build.make CMakeFiles/exp2_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp2_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=28 "Built target exp2_3"
 .PHONY : CMakeFiles/exp2_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp2_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp2_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp2_3.dir/rule
@@ -500,7 +514,7 @@ CMakeFiles/exp2_3.dir/clean:
 CMakeFiles/exp2_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_4.dir\build.make CMakeFiles/exp2_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_4.dir\build.make CMakeFiles/exp2_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=26 "Built target exp2_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=29 "Built target exp2_4"
 .PHONY : CMakeFiles/exp2_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -552,7 +566,7 @@ CMakeFiles/exp2_5.dir/clean:
 CMakeFiles/exp2_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_6.dir\build.make CMakeFiles/exp2_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_6.dir\build.make CMakeFiles/exp2_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=27 "Built target exp2_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=30 "Built target exp2_6"
 .PHONY : CMakeFiles/exp2_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -604,7 +618,7 @@ CMakeFiles/exp2_7.dir/clean:
 CMakeFiles/exp2_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_8.dir\build.make CMakeFiles/exp2_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_8.dir\build.make CMakeFiles/exp2_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=28 "Built target exp2_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=31 "Built target exp2_8"
 .PHONY : CMakeFiles/exp2_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -630,12 +644,12 @@ CMakeFiles/exp2_8.dir/clean:
 CMakeFiles/exp2_9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_9.dir\build.make CMakeFiles/exp2_9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_9.dir\build.make CMakeFiles/exp2_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=29 "Built target exp2_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp2_9"
 .PHONY : CMakeFiles/exp2_9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp2_9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp2_9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp2_9.dir/rule
@@ -682,7 +696,7 @@ CMakeFiles/exp2_10.dir/clean:
 CMakeFiles/exp2_11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_11.dir\build.make CMakeFiles/exp2_11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_11.dir\build.make CMakeFiles/exp2_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=20 "Built target exp2_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=23 "Built target exp2_11"
 .PHONY : CMakeFiles/exp2_11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -708,12 +722,12 @@ CMakeFiles/exp2_11.dir/clean:
 CMakeFiles/exp2_12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_12.dir\build.make CMakeFiles/exp2_12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_12.dir\build.make CMakeFiles/exp2_12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp2_12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=24 "Built target exp2_12"
 .PHONY : CMakeFiles/exp2_12.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp2_12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp2_12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp2_12.dir/rule
@@ -734,12 +748,12 @@ CMakeFiles/exp2_12.dir/clean:
 CMakeFiles/exp2_13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_13.dir\build.make CMakeFiles/exp2_13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_13.dir\build.make CMakeFiles/exp2_13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=21 "Built target exp2_13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp2_13"
 .PHONY : CMakeFiles/exp2_13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp2_13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp2_13.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp2_13.dir/rule
@@ -760,7 +774,7 @@ CMakeFiles/exp2_13.dir/clean:
 CMakeFiles/exp2_14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_14.dir\build.make CMakeFiles/exp2_14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_14.dir\build.make CMakeFiles/exp2_14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=22 "Built target exp2_14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=25 "Built target exp2_14"
 .PHONY : CMakeFiles/exp2_14.dir/all
 
 # Build rule for subdir invocation for target.
@@ -812,7 +826,7 @@ CMakeFiles/exp2_15.dir/clean:
 CMakeFiles/exp2_16.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_16.dir\build.make CMakeFiles/exp2_16.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_16.dir\build.make CMakeFiles/exp2_16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=23 "Built target exp2_16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=26 "Built target exp2_16"
 .PHONY : CMakeFiles/exp2_16.dir/all
 
 # Build rule for subdir invocation for target.
@@ -864,7 +878,7 @@ CMakeFiles/exp2_17.dir/clean:
 CMakeFiles/exp2_18.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_18.dir\build.make CMakeFiles/exp2_18.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp2_18.dir\build.make CMakeFiles/exp2_18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=24 "Built target exp2_18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=27 "Built target exp2_18"
 .PHONY : CMakeFiles/exp2_18.dir/all
 
 # Build rule for subdir invocation for target.
@@ -890,12 +904,12 @@ CMakeFiles/exp2_18.dir/clean:
 CMakeFiles/exp3_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_1.dir\build.make CMakeFiles/exp3_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_1.dir\build.make CMakeFiles/exp3_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp3_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=32 "Built target exp3_1"
 .PHONY : CMakeFiles/exp3_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp3_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp3_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp3_1.dir/rule
@@ -916,12 +930,12 @@ CMakeFiles/exp3_1.dir/clean:
 CMakeFiles/exp3_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_2.dir\build.make CMakeFiles/exp3_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_2.dir\build.make CMakeFiles/exp3_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=30 "Built target exp3_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp3_2"
 .PHONY : CMakeFiles/exp3_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp3_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp3_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp3_2.dir/rule
@@ -942,12 +956,12 @@ CMakeFiles/exp3_2.dir/clean:
 CMakeFiles/exp3_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_3.dir\build.make CMakeFiles/exp3_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_3.dir\build.make CMakeFiles/exp3_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp3_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=33 "Built target exp3_3"
 .PHONY : CMakeFiles/exp3_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp3_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp3_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp3_3.dir/rule
@@ -968,12 +982,12 @@ CMakeFiles/exp3_3.dir/clean:
 CMakeFiles/pra3_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_1.dir\build.make CMakeFiles/pra3_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_1.dir\build.make CMakeFiles/pra3_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra3_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=76 "Built target pra3_1"
 .PHONY : CMakeFiles/pra3_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra3_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra3_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra3_1.dir/rule
@@ -994,7 +1008,7 @@ CMakeFiles/pra3_1.dir/clean:
 CMakeFiles/pra3_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_2.dir\build.make CMakeFiles/pra3_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_2.dir\build.make CMakeFiles/pra3_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=76 "Built target pra3_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=77 "Built target pra3_2"
 .PHONY : CMakeFiles/pra3_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1046,7 +1060,7 @@ CMakeFiles/pra3_3.dir/clean:
 CMakeFiles/pra3_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_4.dir\build.make CMakeFiles/pra3_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_4.dir\build.make CMakeFiles/pra3_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=77 "Built target pra3_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=78 "Built target pra3_4"
 .PHONY : CMakeFiles/pra3_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1072,7 +1086,7 @@ CMakeFiles/pra3_4.dir/clean:
 CMakeFiles/exp3_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_4.dir\build.make CMakeFiles/exp3_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp3_4.dir\build.make CMakeFiles/exp3_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=31 "Built target exp3_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=34 "Built target exp3_4"
 .PHONY : CMakeFiles/exp3_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1150,7 +1164,7 @@ CMakeFiles/pra3_5.dir/clean:
 CMakeFiles/pra3_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_6.dir\build.make CMakeFiles/pra3_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_6.dir\build.make CMakeFiles/pra3_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=78 "Built target pra3_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=79 "Built target pra3_6"
 .PHONY : CMakeFiles/pra3_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1176,12 +1190,12 @@ CMakeFiles/pra3_6.dir/clean:
 CMakeFiles/pra3_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_7.dir\build.make CMakeFiles/pra3_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3_7.dir\build.make CMakeFiles/pra3_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=79 "Built target pra3_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra3_7"
 .PHONY : CMakeFiles/pra3_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra3_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra3_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra3_7.dir/rule
@@ -1202,7 +1216,7 @@ CMakeFiles/pra3_7.dir/clean:
 CMakeFiles/exp4_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_1.dir\build.make CMakeFiles/exp4_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_1.dir\build.make CMakeFiles/exp4_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=32 "Built target exp4_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=35 "Built target exp4_1"
 .PHONY : CMakeFiles/exp4_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1228,12 +1242,12 @@ CMakeFiles/exp4_1.dir/clean:
 CMakeFiles/exp4_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_2.dir\build.make CMakeFiles/exp4_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_2.dir\build.make CMakeFiles/exp4_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=33 "Built target exp4_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp4_2"
 .PHONY : CMakeFiles/exp4_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp4_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp4_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp4_2.dir/rule
@@ -1254,12 +1268,12 @@ CMakeFiles/exp4_2.dir/clean:
 CMakeFiles/exp4_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_3.dir\build.make CMakeFiles/exp4_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_3.dir\build.make CMakeFiles/exp4_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp4_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=36 "Built target exp4_3"
 .PHONY : CMakeFiles/exp4_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp4_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp4_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp4_3.dir/rule
@@ -1280,12 +1294,12 @@ CMakeFiles/exp4_3.dir/clean:
 CMakeFiles/exp4_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_4.dir\build.make CMakeFiles/exp4_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_4.dir\build.make CMakeFiles/exp4_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=34 "Built target exp4_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp4_4"
 .PHONY : CMakeFiles/exp4_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp4_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp4_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp4_4.dir/rule
@@ -1306,12 +1320,12 @@ CMakeFiles/exp4_4.dir/clean:
 CMakeFiles/exp4_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_5.dir\build.make CMakeFiles/exp4_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_5.dir\build.make CMakeFiles/exp4_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp4_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=37 "Built target exp4_5"
 .PHONY : CMakeFiles/exp4_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp4_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp4_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp4_5.dir/rule
@@ -1332,7 +1346,7 @@ CMakeFiles/exp4_5.dir/clean:
 CMakeFiles/pra4_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_1.dir\build.make CMakeFiles/pra4_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_1.dir\build.make CMakeFiles/pra4_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=80 "Built target pra4_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=81 "Built target pra4_1"
 .PHONY : CMakeFiles/pra4_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1384,7 +1398,7 @@ CMakeFiles/pra4_2.dir/clean:
 CMakeFiles/pra4_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_3.dir\build.make CMakeFiles/pra4_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_3.dir\build.make CMakeFiles/pra4_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=81 "Built target pra4_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=82 "Built target pra4_3"
 .PHONY : CMakeFiles/pra4_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1436,7 +1450,7 @@ CMakeFiles/pra4_4.dir/clean:
 CMakeFiles/pra4_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_5.dir\build.make CMakeFiles/pra4_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_5.dir\build.make CMakeFiles/pra4_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=82 "Built target pra4_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=83 "Built target pra4_5"
 .PHONY : CMakeFiles/pra4_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1462,12 +1476,12 @@ CMakeFiles/pra4_5.dir/clean:
 CMakeFiles/exp4_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_6.dir\build.make CMakeFiles/exp4_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_6.dir\build.make CMakeFiles/exp4_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=35 "Built target exp4_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp4_6"
 .PHONY : CMakeFiles/exp4_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp4_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp4_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp4_6.dir/rule
@@ -1488,7 +1502,7 @@ CMakeFiles/exp4_6.dir/clean:
 CMakeFiles/exp4_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_7.dir\build.make CMakeFiles/exp4_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp4_7.dir\build.make CMakeFiles/exp4_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=36 "Built target exp4_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=38 "Built target exp4_7"
 .PHONY : CMakeFiles/exp4_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1514,12 +1528,12 @@ CMakeFiles/exp4_7.dir/clean:
 CMakeFiles/pra4_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_6.dir\build.make CMakeFiles/pra4_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_6.dir\build.make CMakeFiles/pra4_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=83 "Built target pra4_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra4_6"
 .PHONY : CMakeFiles/pra4_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra4_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra4_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra4_6.dir/rule
@@ -1540,12 +1554,12 @@ CMakeFiles/pra4_6.dir/clean:
 CMakeFiles/pra4_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_7.dir\build.make CMakeFiles/pra4_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4_7.dir\build.make CMakeFiles/pra4_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra4_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=84 "Built target pra4_7"
 .PHONY : CMakeFiles/pra4_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra4_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra4_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra4_7.dir/rule
@@ -1566,12 +1580,12 @@ CMakeFiles/pra4_7.dir/clean:
 CMakeFiles/exp5_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_1.dir\build.make CMakeFiles/exp5_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_1.dir\build.make CMakeFiles/exp5_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=39 "Built target exp5_1"
 .PHONY : CMakeFiles/exp5_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_1.dir/rule
@@ -1592,12 +1606,12 @@ CMakeFiles/exp5_1.dir/clean:
 CMakeFiles/exp5_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_2.dir\build.make CMakeFiles/exp5_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_2.dir\build.make CMakeFiles/exp5_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=37 "Built target exp5_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_2"
 .PHONY : CMakeFiles/exp5_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_2.dir/rule
@@ -1618,12 +1632,12 @@ CMakeFiles/exp5_2.dir/clean:
 CMakeFiles/exp5_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_3.dir\build.make CMakeFiles/exp5_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_3.dir\build.make CMakeFiles/exp5_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=40 "Built target exp5_3"
 .PHONY : CMakeFiles/exp5_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_3.dir/rule
@@ -1644,12 +1658,12 @@ CMakeFiles/exp5_3.dir/clean:
 CMakeFiles/exp5_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_4.dir\build.make CMakeFiles/exp5_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_4.dir\build.make CMakeFiles/exp5_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=38 "Built target exp5_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_4"
 .PHONY : CMakeFiles/exp5_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_4.dir/rule
@@ -1670,12 +1684,12 @@ CMakeFiles/exp5_4.dir/clean:
 CMakeFiles/exp5_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_5.dir\build.make CMakeFiles/exp5_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_5.dir\build.make CMakeFiles/exp5_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=41 "Built target exp5_5"
 .PHONY : CMakeFiles/exp5_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_5.dir/rule
@@ -1696,12 +1710,12 @@ CMakeFiles/exp5_5.dir/clean:
 CMakeFiles/exp5_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_6.dir\build.make CMakeFiles/exp5_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp5_6.dir\build.make CMakeFiles/exp5_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=39 "Built target exp5_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp5_6"
 .PHONY : CMakeFiles/exp5_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp5_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp5_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp5_6.dir/rule
@@ -1722,12 +1736,12 @@ CMakeFiles/exp5_6.dir/clean:
 CMakeFiles/pra5_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5_1.dir\build.make CMakeFiles/pra5_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5_1.dir\build.make CMakeFiles/pra5_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra5_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=85 "Built target pra5_1"
 .PHONY : CMakeFiles/pra5_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra5_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra5_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra5_1.dir/rule
@@ -1748,7 +1762,7 @@ CMakeFiles/pra5_1.dir/clean:
 CMakeFiles/pra5_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5_2.dir\build.make CMakeFiles/pra5_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5_2.dir\build.make CMakeFiles/pra5_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=85 "Built target pra5_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=86 "Built target pra5_2"
 .PHONY : CMakeFiles/pra5_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1774,7 +1788,7 @@ CMakeFiles/pra5_2.dir/clean:
 CMakeFiles/exp6_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_1.dir\build.make CMakeFiles/exp6_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_1.dir\build.make CMakeFiles/exp6_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=40 "Built target exp6_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=42 "Built target exp6_1"
 .PHONY : CMakeFiles/exp6_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1852,7 +1866,7 @@ CMakeFiles/test.dir/clean:
 CMakeFiles/exp6_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_3.dir\build.make CMakeFiles/exp6_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_3.dir\build.make CMakeFiles/exp6_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=44 "Built target exp6_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=46 "Built target exp6_3"
 .PHONY : CMakeFiles/exp6_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1904,12 +1918,12 @@ CMakeFiles/exp6_4.dir/clean:
 CMakeFiles/pra6_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_1.dir\build.make CMakeFiles/pra6_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_1.dir\build.make CMakeFiles/pra6_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=87 "Built target pra6_1"
 .PHONY : CMakeFiles/pra6_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_1.dir/rule
@@ -1930,12 +1944,12 @@ CMakeFiles/pra6_1.dir/clean:
 CMakeFiles/pra6_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_2.dir\build.make CMakeFiles/pra6_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_2.dir\build.make CMakeFiles/pra6_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=89 "Built target pra6_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_2"
 .PHONY : CMakeFiles/pra6_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_2.dir/rule
@@ -1982,12 +1996,12 @@ CMakeFiles/pra6_3.dir/clean:
 CMakeFiles/pra6_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_4.dir\build.make CMakeFiles/pra6_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_4.dir\build.make CMakeFiles/pra6_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=91 "Built target pra6_4"
 .PHONY : CMakeFiles/pra6_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_4.dir/rule
@@ -2008,7 +2022,7 @@ CMakeFiles/pra6_4.dir/clean:
 CMakeFiles/exp6_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_5.dir\build.make CMakeFiles/exp6_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_5.dir\build.make CMakeFiles/exp6_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=45 "Built target exp6_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=47 "Built target exp6_5"
 .PHONY : CMakeFiles/exp6_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2034,12 +2048,12 @@ CMakeFiles/exp6_5.dir/clean:
 CMakeFiles/exp6_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_6.dir\build.make CMakeFiles/exp6_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_6.dir\build.make CMakeFiles/exp6_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=48 "Built target exp6_6"
 .PHONY : CMakeFiles/exp6_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_6.dir/rule
@@ -2060,12 +2074,12 @@ CMakeFiles/exp6_6.dir/clean:
 CMakeFiles/pra6_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_5.dir\build.make CMakeFiles/pra6_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_5.dir\build.make CMakeFiles/pra6_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=91 "Built target pra6_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_5"
 .PHONY : CMakeFiles/pra6_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_5.dir/rule
@@ -2086,12 +2100,12 @@ CMakeFiles/pra6_5.dir/clean:
 CMakeFiles/exp6_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_7.dir\build.make CMakeFiles/exp6_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_7.dir\build.make CMakeFiles/exp6_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=46 "Built target exp6_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_7"
 .PHONY : CMakeFiles/exp6_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_7.dir/rule
@@ -2112,7 +2126,7 @@ CMakeFiles/exp6_7.dir/clean:
 CMakeFiles/exp6_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_8.dir\build.make CMakeFiles/exp6_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_8.dir\build.make CMakeFiles/exp6_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=47 "Built target exp6_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=49 "Built target exp6_8"
 .PHONY : CMakeFiles/exp6_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2138,12 +2152,12 @@ CMakeFiles/exp6_8.dir/clean:
 CMakeFiles/pra6_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_6.dir\build.make CMakeFiles/pra6_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_6.dir\build.make CMakeFiles/pra6_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=92 "Built target pra6_6"
 .PHONY : CMakeFiles/pra6_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_6.dir/rule
@@ -2190,12 +2204,12 @@ CMakeFiles/exp6_9.dir/clean:
 CMakeFiles/pra6_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_7.dir\build.make CMakeFiles/pra6_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_7.dir\build.make CMakeFiles/pra6_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=92 "Built target pra6_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_7"
 .PHONY : CMakeFiles/pra6_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_7.dir/rule
@@ -2242,12 +2256,12 @@ CMakeFiles/pra6_8.dir/clean:
 CMakeFiles/exp6_10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_10.dir\build.make CMakeFiles/exp6_10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_10.dir\build.make CMakeFiles/exp6_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=43 "Built target exp6_10"
 .PHONY : CMakeFiles/exp6_10.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_10.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_10.dir/rule
@@ -2294,12 +2308,12 @@ CMakeFiles/pra6_9.dir/clean:
 CMakeFiles/exp6_11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_11.dir\build.make CMakeFiles/exp6_11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_11.dir\build.make CMakeFiles/exp6_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=41 "Built target exp6_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_11"
 .PHONY : CMakeFiles/exp6_11.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_11.dir/rule
@@ -2320,12 +2334,12 @@ CMakeFiles/exp6_11.dir/clean:
 CMakeFiles/exp6_12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_12.dir\build.make CMakeFiles/exp6_12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_12.dir\build.make CMakeFiles/exp6_12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=44 "Built target exp6_12"
 .PHONY : CMakeFiles/exp6_12.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_12.dir/rule
@@ -2346,12 +2360,12 @@ CMakeFiles/exp6_12.dir/clean:
 CMakeFiles/pra6_10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_10.dir\build.make CMakeFiles/pra6_10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_10.dir\build.make CMakeFiles/pra6_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=87 "Built target pra6_10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_10"
 .PHONY : CMakeFiles/pra6_10.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_10.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_10.dir/rule
@@ -2372,12 +2386,12 @@ CMakeFiles/pra6_10.dir/clean:
 CMakeFiles/pra6_11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_11.dir\build.make CMakeFiles/pra6_11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_11.dir\build.make CMakeFiles/pra6_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=88 "Built target pra6_11"
 .PHONY : CMakeFiles/pra6_11.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_11.dir/rule
@@ -2398,12 +2412,12 @@ CMakeFiles/pra6_11.dir/clean:
 CMakeFiles/exp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp.dir\build.make CMakeFiles/exp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp.dir\build.make CMakeFiles/exp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=4 "Built target exp"
 .PHONY : CMakeFiles/exp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp.dir/rule
@@ -2424,12 +2438,12 @@ CMakeFiles/exp.dir/clean:
 CMakeFiles/exp6_13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_13.dir\build.make CMakeFiles/exp6_13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_13.dir\build.make CMakeFiles/exp6_13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=42 "Built target exp6_13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp6_13"
 .PHONY : CMakeFiles/exp6_13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp6_13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp6_13.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp6_13.dir/rule
@@ -2450,7 +2464,7 @@ CMakeFiles/exp6_13.dir/clean:
 CMakeFiles/exp6_14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_14.dir\build.make CMakeFiles/exp6_14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp6_14.dir\build.make CMakeFiles/exp6_14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=43 "Built target exp6_14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=45 "Built target exp6_14"
 .PHONY : CMakeFiles/exp6_14.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2476,12 +2490,12 @@ CMakeFiles/exp6_14.dir/clean:
 CMakeFiles/pra6_12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_12.dir\build.make CMakeFiles/pra6_12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_12.dir\build.make CMakeFiles/pra6_12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=88 "Built target pra6_12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_12"
 .PHONY : CMakeFiles/pra6_12.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_12.dir/rule
@@ -2502,12 +2516,12 @@ CMakeFiles/pra6_12.dir/clean:
 CMakeFiles/pra6_13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_13.dir\build.make CMakeFiles/pra6_13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6_13.dir\build.make CMakeFiles/pra6_13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6_13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=89 "Built target pra6_13"
 .PHONY : CMakeFiles/pra6_13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6_13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6_13.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6_13.dir/rule
@@ -2528,7 +2542,7 @@ CMakeFiles/pra6_13.dir/clean:
 CMakeFiles/exp7_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_1.dir\build.make CMakeFiles/exp7_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_1.dir\build.make CMakeFiles/exp7_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=48 "Built target exp7_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=50 "Built target exp7_1"
 .PHONY : CMakeFiles/exp7_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2580,7 +2594,7 @@ CMakeFiles/exp7_2.dir/clean:
 CMakeFiles/exp7_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_3.dir\build.make CMakeFiles/exp7_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_3.dir\build.make CMakeFiles/exp7_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=49 "Built target exp7_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=51 "Built target exp7_3"
 .PHONY : CMakeFiles/exp7_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2632,12 +2646,12 @@ CMakeFiles/pra7_1.dir/clean:
 CMakeFiles/exp7_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_4.dir\build.make CMakeFiles/exp7_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_4.dir\build.make CMakeFiles/exp7_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=50 "Built target exp7_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp7_4"
 .PHONY : CMakeFiles/exp7_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp7_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp7_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp7_4.dir/rule
@@ -2658,12 +2672,12 @@ CMakeFiles/exp7_4.dir/clean:
 CMakeFiles/exp7_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_5.dir\build.make CMakeFiles/exp7_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp7_5.dir\build.make CMakeFiles/exp7_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp7_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=52 "Built target exp7_5"
 .PHONY : CMakeFiles/exp7_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp7_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp7_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp7_5.dir/rule
@@ -2710,7 +2724,7 @@ CMakeFiles/pra7_2.dir/clean:
 CMakeFiles/exp8_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp8_1.dir\build.make CMakeFiles/exp8_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp8_1.dir\build.make CMakeFiles/exp8_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=51 "Built target exp8_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=53 "Built target exp8_1"
 .PHONY : CMakeFiles/exp8_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2762,12 +2776,12 @@ CMakeFiles/exp8_2.dir/clean:
 CMakeFiles/pra8_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra8_2.dir\build.make CMakeFiles/pra8_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra8_2.dir\build.make CMakeFiles/pra8_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=96 "Built target pra8_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra8_2"
 .PHONY : CMakeFiles/pra8_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra8_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra8_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra8_2.dir/rule
@@ -2788,7 +2802,7 @@ CMakeFiles/pra8_2.dir/clean:
 CMakeFiles/exp8_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp8_3.dir\build.make CMakeFiles/exp8_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp8_3.dir\build.make CMakeFiles/exp8_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=52 "Built target exp8_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=54 "Built target exp8_3"
 .PHONY : CMakeFiles/exp8_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2866,7 +2880,7 @@ CMakeFiles/pra8_3.dir/clean:
 CMakeFiles/exp9_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_1.dir\build.make CMakeFiles/exp9_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_1.dir\build.make CMakeFiles/exp9_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=53 "Built target exp9_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=55 "Built target exp9_1"
 .PHONY : CMakeFiles/exp9_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2892,12 +2906,12 @@ CMakeFiles/exp9_1.dir/clean:
 CMakeFiles/exp9_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_2.dir\build.make CMakeFiles/exp9_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_2.dir\build.make CMakeFiles/exp9_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=54 "Built target exp9_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp9_2"
 .PHONY : CMakeFiles/exp9_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp9_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp9_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp9_2.dir/rule
@@ -2944,12 +2958,12 @@ CMakeFiles/pra9_1.dir/clean:
 CMakeFiles/exp9_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_3.dir\build.make CMakeFiles/exp9_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_3.dir\build.make CMakeFiles/exp9_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp9_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=56 "Built target exp9_3"
 .PHONY : CMakeFiles/exp9_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp9_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp9_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp9_3.dir/rule
@@ -2970,12 +2984,12 @@ CMakeFiles/exp9_3.dir/clean:
 CMakeFiles/exp9_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_4.dir\build.make CMakeFiles/exp9_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp9_4.dir\build.make CMakeFiles/exp9_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=55 "Built target exp9_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp9_4"
 .PHONY : CMakeFiles/exp9_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp9_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp9_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp9_4.dir/rule
@@ -3048,7 +3062,7 @@ CMakeFiles/pra9_3.dir/clean:
 CMakeFiles/exp10_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_1.dir\build.make CMakeFiles/exp10_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_1.dir\build.make CMakeFiles/exp10_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=1 "Built target exp10_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=5 "Built target exp10_1"
 .PHONY : CMakeFiles/exp10_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3100,7 +3114,7 @@ CMakeFiles/exp10_2.dir/clean:
 CMakeFiles/exp10_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_3.dir\build.make CMakeFiles/exp10_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_3.dir\build.make CMakeFiles/exp10_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=2 "Built target exp10_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=6 "Built target exp10_3"
 .PHONY : CMakeFiles/exp10_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3178,7 +3192,7 @@ CMakeFiles/pra10_1.dir/clean:
 CMakeFiles/exp10_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_5.dir\build.make CMakeFiles/exp10_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_5.dir\build.make CMakeFiles/exp10_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=3 "Built target exp10_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=7 "Built target exp10_5"
 .PHONY : CMakeFiles/exp10_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3204,12 +3218,12 @@ CMakeFiles/exp10_5.dir/clean:
 CMakeFiles/exp10_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_6.dir\build.make CMakeFiles/exp10_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_6.dir\build.make CMakeFiles/exp10_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=4 "Built target exp10_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp10_6"
 .PHONY : CMakeFiles/exp10_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp10_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp10_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp10_6.dir/rule
@@ -3230,7 +3244,7 @@ CMakeFiles/exp10_6.dir/clean:
 CMakeFiles/pra10_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_2.dir\build.make CMakeFiles/pra10_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_2.dir\build.make CMakeFiles/pra10_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=57 "Built target pra10_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=59 "Built target pra10_2"
 .PHONY : CMakeFiles/pra10_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3256,12 +3270,12 @@ CMakeFiles/pra10_2.dir/clean:
 CMakeFiles/pra10_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_3.dir\build.make CMakeFiles/pra10_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_3.dir\build.make CMakeFiles/pra10_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=58 "Built target pra10_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra10_3"
 .PHONY : CMakeFiles/pra10_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra10_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra10_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra10_3.dir/rule
@@ -3282,12 +3296,12 @@ CMakeFiles/pra10_3.dir/clean:
 CMakeFiles/exp10_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_7.dir\build.make CMakeFiles/exp10_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_7.dir\build.make CMakeFiles/exp10_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp10_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=8 "Built target exp10_7"
 .PHONY : CMakeFiles/exp10_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp10_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp10_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp10_7.dir/rule
@@ -3308,12 +3322,12 @@ CMakeFiles/exp10_7.dir/clean:
 CMakeFiles/exp10_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_8.dir\build.make CMakeFiles/exp10_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_8.dir\build.make CMakeFiles/exp10_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=5 "Built target exp10_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp10_8"
 .PHONY : CMakeFiles/exp10_8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp10_8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp10_8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp10_8.dir/rule
@@ -3334,12 +3348,12 @@ CMakeFiles/exp10_8.dir/clean:
 CMakeFiles/exp10_9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_9.dir\build.make CMakeFiles/exp10_9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp10_9.dir\build.make CMakeFiles/exp10_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp10_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=9 "Built target exp10_9"
 .PHONY : CMakeFiles/exp10_9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp10_9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp10_9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp10_9.dir/rule
@@ -3360,12 +3374,12 @@ CMakeFiles/exp10_9.dir/clean:
 CMakeFiles/pra10_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_4.dir\build.make CMakeFiles/pra10_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_4.dir\build.make CMakeFiles/pra10_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra10_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=60 "Built target pra10_4"
 .PHONY : CMakeFiles/pra10_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra10_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra10_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra10_4.dir/rule
@@ -3386,12 +3400,12 @@ CMakeFiles/pra10_4.dir/clean:
 CMakeFiles/pra10_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_5.dir\build.make CMakeFiles/pra10_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_5.dir\build.make CMakeFiles/pra10_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=59 "Built target pra10_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra10_5"
 .PHONY : CMakeFiles/pra10_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra10_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra10_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra10_5.dir/rule
@@ -3412,12 +3426,12 @@ CMakeFiles/pra10_5.dir/clean:
 CMakeFiles/pra10_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_6.dir\build.make CMakeFiles/pra10_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10_6.dir\build.make CMakeFiles/pra10_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra10_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=61 "Built target pra10_6"
 .PHONY : CMakeFiles/pra10_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra10_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra10_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra10_6.dir/rule
@@ -3438,7 +3452,7 @@ CMakeFiles/pra10_6.dir/clean:
 CMakeFiles/exp11_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_1.dir\build.make CMakeFiles/exp11_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_1.dir\build.make CMakeFiles/exp11_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=6 "Built target exp11_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=10 "Built target exp11_1"
 .PHONY : CMakeFiles/exp11_1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3464,12 +3478,12 @@ CMakeFiles/exp11_1.dir/clean:
 CMakeFiles/exp11_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_2.dir\build.make CMakeFiles/exp11_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_2.dir\build.make CMakeFiles/exp11_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=8 "Built target exp11_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_2"
 .PHONY : CMakeFiles/exp11_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_2.dir/rule
@@ -3490,12 +3504,12 @@ CMakeFiles/exp11_2.dir/clean:
 CMakeFiles/exp11_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_3.dir\build.make CMakeFiles/exp11_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_3.dir\build.make CMakeFiles/exp11_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=12 "Built target exp11_3"
 .PHONY : CMakeFiles/exp11_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_3.dir/rule
@@ -3516,12 +3530,12 @@ CMakeFiles/exp11_3.dir/clean:
 CMakeFiles/pra11_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_1.dir\build.make CMakeFiles/pra11_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_1.dir\build.make CMakeFiles/pra11_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=61 "Built target pra11_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_1"
 .PHONY : CMakeFiles/pra11_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_1.dir/rule
@@ -3542,12 +3556,12 @@ CMakeFiles/pra11_1.dir/clean:
 CMakeFiles/pra11_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_2.dir\build.make CMakeFiles/pra11_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_2.dir\build.make CMakeFiles/pra11_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=63 "Built target pra11_2"
 .PHONY : CMakeFiles/pra11_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_2.dir/rule
@@ -3568,12 +3582,12 @@ CMakeFiles/pra11_2.dir/clean:
 CMakeFiles/pra11_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_3.dir\build.make CMakeFiles/pra11_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_3.dir\build.make CMakeFiles/pra11_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=62 "Built target pra11_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_3"
 .PHONY : CMakeFiles/pra11_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_3.dir/rule
@@ -3594,12 +3608,12 @@ CMakeFiles/pra11_3.dir/clean:
 CMakeFiles/exp11_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_4.dir\build.make CMakeFiles/exp11_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_4.dir\build.make CMakeFiles/exp11_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=9 "Built target exp11_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_4"
 .PHONY : CMakeFiles/exp11_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_4.dir/rule
@@ -3620,12 +3634,12 @@ CMakeFiles/exp11_4.dir/clean:
 CMakeFiles/exp11_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_5.dir\build.make CMakeFiles/exp11_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_5.dir\build.make CMakeFiles/exp11_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=13 "Built target exp11_5"
 .PHONY : CMakeFiles/exp11_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_5.dir/rule
@@ -3646,12 +3660,12 @@ CMakeFiles/exp11_5.dir/clean:
 CMakeFiles/pra11_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_4.dir\build.make CMakeFiles/pra11_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_4.dir\build.make CMakeFiles/pra11_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=64 "Built target pra11_4"
 .PHONY : CMakeFiles/pra11_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_4.dir/rule
@@ -3672,12 +3686,12 @@ CMakeFiles/pra11_4.dir/clean:
 CMakeFiles/pra11_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_5.dir\build.make CMakeFiles/pra11_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_5.dir\build.make CMakeFiles/pra11_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=63 "Built target pra11_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_5"
 .PHONY : CMakeFiles/pra11_5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_5.dir/rule
@@ -3698,12 +3712,12 @@ CMakeFiles/pra11_5.dir/clean:
 CMakeFiles/exp11_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_6.dir\build.make CMakeFiles/exp11_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_6.dir\build.make CMakeFiles/exp11_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=10 "Built target exp11_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_6"
 .PHONY : CMakeFiles/exp11_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_6.dir/rule
@@ -3724,7 +3738,7 @@ CMakeFiles/exp11_6.dir/clean:
 CMakeFiles/exp11_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_7.dir\build.make CMakeFiles/exp11_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_7.dir\build.make CMakeFiles/exp11_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=11 "Built target exp11_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=14 "Built target exp11_7"
 .PHONY : CMakeFiles/exp11_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3750,12 +3764,12 @@ CMakeFiles/exp11_7.dir/clean:
 CMakeFiles/pra11_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_6.dir\build.make CMakeFiles/pra11_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_6.dir\build.make CMakeFiles/pra11_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=65 "Built target pra11_6"
 .PHONY : CMakeFiles/pra11_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_6.dir/rule
@@ -3776,12 +3790,12 @@ CMakeFiles/pra11_6.dir/clean:
 CMakeFiles/pra11_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_7.dir\build.make CMakeFiles/pra11_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11_7.dir\build.make CMakeFiles/pra11_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=64 "Built target pra11_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra11_7"
 .PHONY : CMakeFiles/pra11_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra11_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra11_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra11_7.dir/rule
@@ -3802,12 +3816,12 @@ CMakeFiles/pra11_7.dir/clean:
 CMakeFiles/exp11_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_8.dir\build.make CMakeFiles/exp11_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_8.dir\build.make CMakeFiles/exp11_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=15 "Built target exp11_8"
 .PHONY : CMakeFiles/exp11_8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_8.dir/rule
@@ -3828,12 +3842,12 @@ CMakeFiles/exp11_8.dir/clean:
 CMakeFiles/exp11_9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_9.dir\build.make CMakeFiles/exp11_9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_9.dir\build.make CMakeFiles/exp11_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=12 "Built target exp11_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp11_9"
 .PHONY : CMakeFiles/exp11_9.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp11_9.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp11_9.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp11_9.dir/rule
@@ -3880,7 +3894,7 @@ CMakeFiles/exp11_10.dir/clean:
 CMakeFiles/exp11_11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_11.dir\build.make CMakeFiles/exp11_11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp11_11.dir\build.make CMakeFiles/exp11_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=7 "Built target exp11_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=11 "Built target exp11_11"
 .PHONY : CMakeFiles/exp11_11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3906,12 +3920,12 @@ CMakeFiles/exp11_11.dir/clean:
 CMakeFiles/exp12_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_1.dir\build.make CMakeFiles/exp12_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_1.dir\build.make CMakeFiles/exp12_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=16 "Built target exp12_1"
 .PHONY : CMakeFiles/exp12_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_1.dir/rule
@@ -3932,12 +3946,12 @@ CMakeFiles/exp12_1.dir/clean:
 CMakeFiles/pra12_1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_1.dir\build.make CMakeFiles/pra12_1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_1.dir\build.make CMakeFiles/pra12_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra12_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=67 "Built target pra12_1"
 .PHONY : CMakeFiles/pra12_1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra12_1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra12_1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra12_1.dir/rule
@@ -3958,12 +3972,12 @@ CMakeFiles/pra12_1.dir/clean:
 CMakeFiles/exp12_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_2.dir\build.make CMakeFiles/exp12_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_2.dir\build.make CMakeFiles/exp12_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=14 "Built target exp12_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_2"
 .PHONY : CMakeFiles/exp12_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_2.dir/rule
@@ -3984,7 +3998,7 @@ CMakeFiles/exp12_2.dir/clean:
 CMakeFiles/exp12_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_3.dir\build.make CMakeFiles/exp12_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_3.dir\build.make CMakeFiles/exp12_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=15 "Built target exp12_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=18 "Built target exp12_3"
 .PHONY : CMakeFiles/exp12_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4010,12 +4024,12 @@ CMakeFiles/exp12_3.dir/clean:
 CMakeFiles/pra12_2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_2.dir\build.make CMakeFiles/pra12_2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_2.dir\build.make CMakeFiles/pra12_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=66 "Built target pra12_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra12_2"
 .PHONY : CMakeFiles/pra12_2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra12_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra12_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra12_2.dir/rule
@@ -4062,7 +4076,7 @@ CMakeFiles/exp12_4.dir/clean:
 CMakeFiles/exp12_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_5.dir\build.make CMakeFiles/exp12_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_5.dir\build.make CMakeFiles/exp12_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=16 "Built target exp12_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=19 "Built target exp12_5"
 .PHONY : CMakeFiles/exp12_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4088,12 +4102,12 @@ CMakeFiles/exp12_5.dir/clean:
 CMakeFiles/pra12_3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_3.dir\build.make CMakeFiles/pra12_3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_3.dir\build.make CMakeFiles/pra12_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra12_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=68 "Built target pra12_3"
 .PHONY : CMakeFiles/pra12_3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra12_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra12_3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra12_3.dir/rule
@@ -4114,12 +4128,12 @@ CMakeFiles/pra12_3.dir/clean:
 CMakeFiles/exp12_6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_6.dir\build.make CMakeFiles/exp12_6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_6.dir\build.make CMakeFiles/exp12_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=20 "Built target exp12_6"
 .PHONY : CMakeFiles/exp12_6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_6.dir/rule
@@ -4140,12 +4154,12 @@ CMakeFiles/exp12_6.dir/clean:
 CMakeFiles/pra12_4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_4.dir\build.make CMakeFiles/pra12_4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_4.dir\build.make CMakeFiles/pra12_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=67 "Built target pra12_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra12_4"
 .PHONY : CMakeFiles/pra12_4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra12_4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra12_4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra12_4.dir/rule
@@ -4166,12 +4180,12 @@ CMakeFiles/pra12_4.dir/clean:
 CMakeFiles/exp12_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_7.dir\build.make CMakeFiles/exp12_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_7.dir\build.make CMakeFiles/exp12_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=17 "Built target exp12_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_7"
 .PHONY : CMakeFiles/exp12_7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_7.dir/rule
@@ -4192,7 +4206,7 @@ CMakeFiles/exp12_7.dir/clean:
 CMakeFiles/pra12_5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_5.dir\build.make CMakeFiles/pra12_5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_5.dir\build.make CMakeFiles/pra12_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=68 "Built target pra12_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=69 "Built target pra12_5"
 .PHONY : CMakeFiles/pra12_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4244,7 +4258,7 @@ CMakeFiles/pra12_6.dir/clean:
 CMakeFiles/exp12_8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_8.dir\build.make CMakeFiles/exp12_8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_8.dir\build.make CMakeFiles/exp12_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=18 "Built target exp12_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=21 "Built target exp12_8"
 .PHONY : CMakeFiles/exp12_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4296,12 +4310,12 @@ CMakeFiles/exp12_9.dir/clean:
 CMakeFiles/exp12_10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_10.dir\build.make CMakeFiles/exp12_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=13 "Built target exp12_10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_10"
 .PHONY : CMakeFiles/exp12_10.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_10.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_10.dir/rule
@@ -4322,12 +4336,12 @@ CMakeFiles/exp12_10.dir/clean:
 CMakeFiles/exp12_11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\exp12_11.dir\build.make CMakeFiles/exp12_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target exp12_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=17 "Built target exp12_11"
 .PHONY : CMakeFiles/exp12_11.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exp12_11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/exp12_11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exp12_11.dir/rule
@@ -4348,7 +4362,7 @@ CMakeFiles/exp12_11.dir/clean:
 CMakeFiles/pra12_7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12_7.dir\build.make CMakeFiles/pra12_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=69 "Built target pra12_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=70 "Built target pra12_7"
 .PHONY : CMakeFiles/pra12_7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4400,12 +4414,12 @@ CMakeFiles/pra12_8.dir/clean:
 CMakeFiles/pra1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra1.dir\build.make CMakeFiles/pra1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra1.dir\build.make CMakeFiles/pra1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=57 "Built target pra1"
 .PHONY : CMakeFiles/pra1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra1.dir/rule
@@ -4426,7 +4440,7 @@ CMakeFiles/pra1.dir/clean:
 CMakeFiles/pra2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra2.dir\build.make CMakeFiles/pra2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra2.dir\build.make CMakeFiles/pra2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=74 "Built target pra2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=75 "Built target pra2"
 .PHONY : CMakeFiles/pra2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4452,12 +4466,12 @@ CMakeFiles/pra2.dir/clean:
 CMakeFiles/pra3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3.dir\build.make CMakeFiles/pra3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra3.dir\build.make CMakeFiles/pra3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=75 "Built target pra3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra3"
 .PHONY : CMakeFiles/pra3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra3.dir/rule
@@ -4478,12 +4492,12 @@ CMakeFiles/pra3.dir/clean:
 CMakeFiles/pra4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4.dir\build.make CMakeFiles/pra4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra4.dir\build.make CMakeFiles/pra4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=80 "Built target pra4"
 .PHONY : CMakeFiles/pra4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra4.dir/rule
@@ -4504,12 +4518,12 @@ CMakeFiles/pra4.dir/clean:
 CMakeFiles/pra5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5.dir\build.make CMakeFiles/pra5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra5.dir\build.make CMakeFiles/pra5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=84 "Built target pra5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra5"
 .PHONY : CMakeFiles/pra5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra5.dir/rule
@@ -4530,12 +4544,12 @@ CMakeFiles/pra5.dir/clean:
 CMakeFiles/pra6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6.dir\build.make CMakeFiles/pra6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra6.dir\build.make CMakeFiles/pra6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=86 "Built target pra6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra6"
 .PHONY : CMakeFiles/pra6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra6.dir/rule
@@ -4582,12 +4596,12 @@ CMakeFiles/pra7.dir/clean:
 CMakeFiles/pra8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra8.dir\build.make CMakeFiles/pra8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra8.dir\build.make CMakeFiles/pra8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=96 "Built target pra8"
 .PHONY : CMakeFiles/pra8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra8.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra8.dir/rule
@@ -4634,7 +4648,7 @@ CMakeFiles/pra9.dir/clean:
 CMakeFiles/pra10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10.dir\build.make CMakeFiles/pra10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra10.dir\build.make CMakeFiles/pra10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=56 "Built target pra10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=58 "Built target pra10"
 .PHONY : CMakeFiles/pra10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4660,7 +4674,7 @@ CMakeFiles/pra10.dir/clean:
 CMakeFiles/pra11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11.dir\build.make CMakeFiles/pra11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra11.dir\build.make CMakeFiles/pra11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=60 "Built target pra11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=62 "Built target pra11"
 .PHONY : CMakeFiles/pra11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4686,7 +4700,7 @@ CMakeFiles/pra11.dir/clean:
 CMakeFiles/pra12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12.dir\build.make CMakeFiles/pra12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra12.dir\build.make CMakeFiles/pra12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=65 "Built target pra12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=66 "Built target pra12"
 .PHONY : CMakeFiles/pra12.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4712,7 +4726,7 @@ CMakeFiles/pra12.dir/clean:
 CMakeFiles/pra13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra13.dir\build.make CMakeFiles/pra13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=70 "Built target pra13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=71 "Built target pra13"
 .PHONY : CMakeFiles/pra13.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4738,12 +4752,12 @@ CMakeFiles/pra13.dir/clean:
 CMakeFiles/pra14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra14.dir\build.make CMakeFiles/pra14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=72 "Built target pra14"
 .PHONY : CMakeFiles/pra14.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra14.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra14.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra14.dir/rule
@@ -4764,12 +4778,12 @@ CMakeFiles/pra14.dir/clean:
 CMakeFiles/pra15.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra15.dir\build.make CMakeFiles/pra15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=71 "Built target pra15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target pra15"
 .PHONY : CMakeFiles/pra15.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pra15.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/pra15.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/pra15.dir/rule
@@ -4790,7 +4804,7 @@ CMakeFiles/pra15.dir/clean:
 CMakeFiles/pra16.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra16.dir\build.make CMakeFiles/pra16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=72 "Built target pra16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=73 "Built target pra16"
 .PHONY : CMakeFiles/pra16.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4842,7 +4856,7 @@ CMakeFiles/pra17.dir/clean:
 CMakeFiles/pra18.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra18.dir\build.make CMakeFiles/pra18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=73 "Built target pra18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=74 "Built target pra18"
 .PHONY : CMakeFiles/pra18.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4886,6 +4900,188 @@ pra19: CMakeFiles/pra19.dir/rule
 CMakeFiles/pra19.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/clean
 .PHONY : CMakeFiles/pra19.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac2.dir
+
+# All Build rule for target.
+CMakeFiles/ac2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=1 "Built target ac2"
+.PHONY : CMakeFiles/ac2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac2.dir/rule
+
+# Convenience name for target.
+ac2: CMakeFiles/ac2.dir/rule
+.PHONY : ac2
+
+# clean rule for target.
+CMakeFiles/ac2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/clean
+.PHONY : CMakeFiles/ac2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac1.dir
+
+# All Build rule for target.
+CMakeFiles/ac1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target ac1"
+.PHONY : CMakeFiles/ac1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac1.dir/rule
+
+# Convenience name for target.
+ac1: CMakeFiles/ac1.dir/rule
+.PHONY : ac1
+
+# clean rule for target.
+CMakeFiles/ac1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/clean
+.PHONY : CMakeFiles/ac1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac3.dir
+
+# All Build rule for target.
+CMakeFiles/ac3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target ac3"
+.PHONY : CMakeFiles/ac3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac3.dir/rule
+
+# Convenience name for target.
+ac3: CMakeFiles/ac3.dir/rule
+.PHONY : ac3
+
+# clean rule for target.
+CMakeFiles/ac3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/clean
+.PHONY : CMakeFiles/ac3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac4.dir
+
+# All Build rule for target.
+CMakeFiles/ac4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=2 "Built target ac4"
+.PHONY : CMakeFiles/ac4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac4.dir/rule
+
+# Convenience name for target.
+ac4: CMakeFiles/ac4.dir/rule
+.PHONY : ac4
+
+# clean rule for target.
+CMakeFiles/ac4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/clean
+.PHONY : CMakeFiles/ac4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac5.dir
+
+# All Build rule for target.
+CMakeFiles/ac5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target ac5"
+.PHONY : CMakeFiles/ac5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac5.dir/rule
+
+# Convenience name for target.
+ac5: CMakeFiles/ac5.dir/rule
+.PHONY : ac5
+
+# clean rule for target.
+CMakeFiles/ac5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/clean
+.PHONY : CMakeFiles/ac5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac6.dir
+
+# All Build rule for target.
+CMakeFiles/ac6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num=3 "Built target ac6"
+.PHONY : CMakeFiles/ac6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac6.dir/rule
+
+# Convenience name for target.
+ac6: CMakeFiles/ac6.dir/rule
+.PHONY : ac6
+
+# clean rule for target.
+CMakeFiles/ac6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/clean
+.PHONY : CMakeFiles/ac6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ac7.dir
+
+# All Build rule for target.
+CMakeFiles/ac7.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\cppExam\cmake-build-debug\CMakeFiles --progress-num= "Built target ac7"
+.PHONY : CMakeFiles/ac7.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ac7.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/ac7.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\cppExam\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/ac7.dir/rule
+
+# Convenience name for target.
+ac7: CMakeFiles/ac7.dir/rule
+.PHONY : ac7
+
+# clean rule for target.
+CMakeFiles/ac7.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/clean
+.PHONY : CMakeFiles/ac7.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

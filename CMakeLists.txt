@@ -175,3 +175,12 @@ add_executable(pra16 hust/pra16.cpp)
 add_executable(pra17 hust/pra17.cpp)
 add_executable(pra18 hust/pra18.cpp)
 add_executable(pra19 hust/pra19.cpp)
+
+add_executable(ac2 acwing/ac2.cpp)
+
+add_executable(ac1 acwing/ac1.cpp)
+add_executable(ac3 acwing/ac3.cpp)
+add_executable(ac4 acwing/ac4.cpp)
+add_executable(ac5 acwing/ac5.cpp)
+add_executable(ac6 acwing/ac6.cpp)
+add_executable(ac7 acwing/ac7.cpp)

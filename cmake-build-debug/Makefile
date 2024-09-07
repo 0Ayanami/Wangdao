@@ -2351,6 +2351,265 @@ pra19/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra19.dir\build.make CMakeFiles/pra19.dir/build
 .PHONY : pra19/fast
 
+#=============================================================================
+# Target rules for targets named ac2
+
+# Build rule for target.
+ac2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac2
+.PHONY : ac2
+
+# fast build rule for target.
+ac2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/build
+.PHONY : ac2/fast
+
+#=============================================================================
+# Target rules for targets named ac1
+
+# Build rule for target.
+ac1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac1
+.PHONY : ac1
+
+# fast build rule for target.
+ac1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/build
+.PHONY : ac1/fast
+
+#=============================================================================
+# Target rules for targets named ac3
+
+# Build rule for target.
+ac3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac3
+.PHONY : ac3
+
+# fast build rule for target.
+ac3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/build
+.PHONY : ac3/fast
+
+#=============================================================================
+# Target rules for targets named ac4
+
+# Build rule for target.
+ac4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac4
+.PHONY : ac4
+
+# fast build rule for target.
+ac4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/build
+.PHONY : ac4/fast
+
+#=============================================================================
+# Target rules for targets named ac5
+
+# Build rule for target.
+ac5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac5
+.PHONY : ac5
+
+# fast build rule for target.
+ac5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/build
+.PHONY : ac5/fast
+
+#=============================================================================
+# Target rules for targets named ac6
+
+# Build rule for target.
+ac6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac6
+.PHONY : ac6
+
+# fast build rule for target.
+ac6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/build
+.PHONY : ac6/fast
+
+#=============================================================================
+# Target rules for targets named ac7
+
+# Build rule for target.
+ac7: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac7
+.PHONY : ac7
+
+# fast build rule for target.
+ac7/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/build
+.PHONY : ac7/fast
+
+acwing/ac1.obj: acwing/ac1.cpp.obj
+.PHONY : acwing/ac1.obj
+
+# target to build an object file
+acwing/ac1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/acwing/ac1.cpp.obj
+.PHONY : acwing/ac1.cpp.obj
+
+acwing/ac1.i: acwing/ac1.cpp.i
+.PHONY : acwing/ac1.i
+
+# target to preprocess a source file
+acwing/ac1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/acwing/ac1.cpp.i
+.PHONY : acwing/ac1.cpp.i
+
+acwing/ac1.s: acwing/ac1.cpp.s
+.PHONY : acwing/ac1.s
+
+# target to generate assembly for a file
+acwing/ac1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/acwing/ac1.cpp.s
+.PHONY : acwing/ac1.cpp.s
+
+acwing/ac2.obj: acwing/ac2.cpp.obj
+.PHONY : acwing/ac2.obj
+
+# target to build an object file
+acwing/ac2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/acwing/ac2.cpp.obj
+.PHONY : acwing/ac2.cpp.obj
+
+acwing/ac2.i: acwing/ac2.cpp.i
+.PHONY : acwing/ac2.i
+
+# target to preprocess a source file
+acwing/ac2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/acwing/ac2.cpp.i
+.PHONY : acwing/ac2.cpp.i
+
+acwing/ac2.s: acwing/ac2.cpp.s
+.PHONY : acwing/ac2.s
+
+# target to generate assembly for a file
+acwing/ac2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac2.dir\build.make CMakeFiles/ac2.dir/acwing/ac2.cpp.s
+.PHONY : acwing/ac2.cpp.s
+
+acwing/ac3.obj: acwing/ac3.cpp.obj
+.PHONY : acwing/ac3.obj
+
+# target to build an object file
+acwing/ac3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/acwing/ac3.cpp.obj
+.PHONY : acwing/ac3.cpp.obj
+
+acwing/ac3.i: acwing/ac3.cpp.i
+.PHONY : acwing/ac3.i
+
+# target to preprocess a source file
+acwing/ac3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/acwing/ac3.cpp.i
+.PHONY : acwing/ac3.cpp.i
+
+acwing/ac3.s: acwing/ac3.cpp.s
+.PHONY : acwing/ac3.s
+
+# target to generate assembly for a file
+acwing/ac3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac3.dir\build.make CMakeFiles/ac3.dir/acwing/ac3.cpp.s
+.PHONY : acwing/ac3.cpp.s
+
+acwing/ac4.obj: acwing/ac4.cpp.obj
+.PHONY : acwing/ac4.obj
+
+# target to build an object file
+acwing/ac4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/acwing/ac4.cpp.obj
+.PHONY : acwing/ac4.cpp.obj
+
+acwing/ac4.i: acwing/ac4.cpp.i
+.PHONY : acwing/ac4.i
+
+# target to preprocess a source file
+acwing/ac4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/acwing/ac4.cpp.i
+.PHONY : acwing/ac4.cpp.i
+
+acwing/ac4.s: acwing/ac4.cpp.s
+.PHONY : acwing/ac4.s
+
+# target to generate assembly for a file
+acwing/ac4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac4.dir\build.make CMakeFiles/ac4.dir/acwing/ac4.cpp.s
+.PHONY : acwing/ac4.cpp.s
+
+acwing/ac5.obj: acwing/ac5.cpp.obj
+.PHONY : acwing/ac5.obj
+
+# target to build an object file
+acwing/ac5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/acwing/ac5.cpp.obj
+.PHONY : acwing/ac5.cpp.obj
+
+acwing/ac5.i: acwing/ac5.cpp.i
+.PHONY : acwing/ac5.i
+
+# target to preprocess a source file
+acwing/ac5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/acwing/ac5.cpp.i
+.PHONY : acwing/ac5.cpp.i
+
+acwing/ac5.s: acwing/ac5.cpp.s
+.PHONY : acwing/ac5.s
+
+# target to generate assembly for a file
+acwing/ac5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac5.dir\build.make CMakeFiles/ac5.dir/acwing/ac5.cpp.s
+.PHONY : acwing/ac5.cpp.s
+
+acwing/ac6.obj: acwing/ac6.cpp.obj
+.PHONY : acwing/ac6.obj
+
+# target to build an object file
+acwing/ac6.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/acwing/ac6.cpp.obj
+.PHONY : acwing/ac6.cpp.obj
+
+acwing/ac6.i: acwing/ac6.cpp.i
+.PHONY : acwing/ac6.i
+
+# target to preprocess a source file
+acwing/ac6.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/acwing/ac6.cpp.i
+.PHONY : acwing/ac6.cpp.i
+
+acwing/ac6.s: acwing/ac6.cpp.s
+.PHONY : acwing/ac6.s
+
+# target to generate assembly for a file
+acwing/ac6.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac6.dir\build.make CMakeFiles/ac6.dir/acwing/ac6.cpp.s
+.PHONY : acwing/ac6.cpp.s
+
+acwing/ac7.obj: acwing/ac7.cpp.obj
+.PHONY : acwing/ac7.obj
+
+# target to build an object file
+acwing/ac7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/acwing/ac7.cpp.obj
+.PHONY : acwing/ac7.cpp.obj
+
+acwing/ac7.i: acwing/ac7.cpp.i
+.PHONY : acwing/ac7.i
+
+# target to preprocess a source file
+acwing/ac7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/acwing/ac7.cpp.i
+.PHONY : acwing/ac7.cpp.i
+
+acwing/ac7.s: acwing/ac7.cpp.s
+.PHONY : acwing/ac7.s
+
+# target to generate assembly for a file
+acwing/ac7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/acwing/ac7.cpp.s
+.PHONY : acwing/ac7.cpp.s
+
 ch10/exp10_1.obj: ch10/exp10_1.cpp.obj
 .PHONY : ch10/exp10_1.obj
 
@@ -6487,6 +6746,13 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ac1
+	@echo ... ac2
+	@echo ... ac3
+	@echo ... ac4
+	@echo ... ac5
+	@echo ... ac6
+	@echo ... ac7
 	@echo ... exp
 	@echo ... exp10_1
 	@echo ... exp10_2
@@ -6659,6 +6925,27 @@ help:
 	@echo ... pra9_2
 	@echo ... pra9_3
 	@echo ... test
+	@echo ... acwing/ac1.obj
+	@echo ... acwing/ac1.i
+	@echo ... acwing/ac1.s
+	@echo ... acwing/ac2.obj
+	@echo ... acwing/ac2.i
+	@echo ... acwing/ac2.s
+	@echo ... acwing/ac3.obj
+	@echo ... acwing/ac3.i
+	@echo ... acwing/ac3.s
+	@echo ... acwing/ac4.obj
+	@echo ... acwing/ac4.i
+	@echo ... acwing/ac4.s
+	@echo ... acwing/ac5.obj
+	@echo ... acwing/ac5.i
+	@echo ... acwing/ac5.s
+	@echo ... acwing/ac6.obj
+	@echo ... acwing/ac6.i
+	@echo ... acwing/ac6.s
+	@echo ... acwing/ac7.obj
+	@echo ... acwing/ac7.i
+	@echo ... acwing/ac7.s
 	@echo ... ch10/exp10_1.obj
 	@echo ... ch10/exp10_1.i
 	@echo ... ch10/exp10_1.s
