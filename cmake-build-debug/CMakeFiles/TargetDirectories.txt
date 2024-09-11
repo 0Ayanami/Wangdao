@@ -177,5 +177,14 @@ D:/cppExam/cmake-build-debug/CMakeFiles/ac4.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/ac5.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/ac6.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/ac7.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ac8.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ac9.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ac10.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ac11.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ky5.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ky10.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ky13.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ky19.dir
+D:/cppExam/cmake-build-debug/CMakeFiles/ky20.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/cppExam/cmake-build-debug/CMakeFiles/rebuild_cache.dir

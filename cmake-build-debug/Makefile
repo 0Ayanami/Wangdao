@@ -2442,6 +2442,123 @@ ac7/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/build
 .PHONY : ac7/fast
 
+#=============================================================================
+# Target rules for targets named ac8
+
+# Build rule for target.
+ac8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac8
+.PHONY : ac8
+
+# fast build rule for target.
+ac8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac8.dir\build.make CMakeFiles/ac8.dir/build
+.PHONY : ac8/fast
+
+#=============================================================================
+# Target rules for targets named ac9
+
+# Build rule for target.
+ac9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac9
+.PHONY : ac9
+
+# fast build rule for target.
+ac9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac9.dir\build.make CMakeFiles/ac9.dir/build
+.PHONY : ac9/fast
+
+#=============================================================================
+# Target rules for targets named ac10
+
+# Build rule for target.
+ac10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac10
+.PHONY : ac10
+
+# fast build rule for target.
+ac10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac10.dir\build.make CMakeFiles/ac10.dir/build
+.PHONY : ac10/fast
+
+#=============================================================================
+# Target rules for targets named ac11
+
+# Build rule for target.
+ac11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ac11
+.PHONY : ac11
+
+# fast build rule for target.
+ac11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac11.dir\build.make CMakeFiles/ac11.dir/build
+.PHONY : ac11/fast
+
+#=============================================================================
+# Target rules for targets named ky5
+
+# Build rule for target.
+ky5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky5
+.PHONY : ky5
+
+# fast build rule for target.
+ky5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky5.dir\build.make CMakeFiles/ky5.dir/build
+.PHONY : ky5/fast
+
+#=============================================================================
+# Target rules for targets named ky10
+
+# Build rule for target.
+ky10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky10
+.PHONY : ky10
+
+# fast build rule for target.
+ky10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky10.dir\build.make CMakeFiles/ky10.dir/build
+.PHONY : ky10/fast
+
+#=============================================================================
+# Target rules for targets named ky13
+
+# Build rule for target.
+ky13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky13
+.PHONY : ky13
+
+# fast build rule for target.
+ky13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky13.dir\build.make CMakeFiles/ky13.dir/build
+.PHONY : ky13/fast
+
+#=============================================================================
+# Target rules for targets named ky19
+
+# Build rule for target.
+ky19: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky19
+.PHONY : ky19
+
+# fast build rule for target.
+ky19/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky19.dir\build.make CMakeFiles/ky19.dir/build
+.PHONY : ky19/fast
+
+#=============================================================================
+# Target rules for targets named ky20
+
+# Build rule for target.
+ky20: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky20
+.PHONY : ky20
+
+# fast build rule for target.
+ky20/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/build
+.PHONY : ky20/fast
+
 acwing/ac1.obj: acwing/ac1.cpp.obj
 .PHONY : acwing/ac1.obj
 
@@ -2465,6 +2582,54 @@ acwing/ac1.s: acwing/ac1.cpp.s
 acwing/ac1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac1.dir\build.make CMakeFiles/ac1.dir/acwing/ac1.cpp.s
 .PHONY : acwing/ac1.cpp.s
+
+acwing/ac10.obj: acwing/ac10.cpp.obj
+.PHONY : acwing/ac10.obj
+
+# target to build an object file
+acwing/ac10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac10.dir\build.make CMakeFiles/ac10.dir/acwing/ac10.cpp.obj
+.PHONY : acwing/ac10.cpp.obj
+
+acwing/ac10.i: acwing/ac10.cpp.i
+.PHONY : acwing/ac10.i
+
+# target to preprocess a source file
+acwing/ac10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac10.dir\build.make CMakeFiles/ac10.dir/acwing/ac10.cpp.i
+.PHONY : acwing/ac10.cpp.i
+
+acwing/ac10.s: acwing/ac10.cpp.s
+.PHONY : acwing/ac10.s
+
+# target to generate assembly for a file
+acwing/ac10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac10.dir\build.make CMakeFiles/ac10.dir/acwing/ac10.cpp.s
+.PHONY : acwing/ac10.cpp.s
+
+acwing/ac11.obj: acwing/ac11.cpp.obj
+.PHONY : acwing/ac11.obj
+
+# target to build an object file
+acwing/ac11.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac11.dir\build.make CMakeFiles/ac11.dir/acwing/ac11.cpp.obj
+.PHONY : acwing/ac11.cpp.obj
+
+acwing/ac11.i: acwing/ac11.cpp.i
+.PHONY : acwing/ac11.i
+
+# target to preprocess a source file
+acwing/ac11.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac11.dir\build.make CMakeFiles/ac11.dir/acwing/ac11.cpp.i
+.PHONY : acwing/ac11.cpp.i
+
+acwing/ac11.s: acwing/ac11.cpp.s
+.PHONY : acwing/ac11.s
+
+# target to generate assembly for a file
+acwing/ac11.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac11.dir\build.make CMakeFiles/ac11.dir/acwing/ac11.cpp.s
+.PHONY : acwing/ac11.cpp.s
 
 acwing/ac2.obj: acwing/ac2.cpp.obj
 .PHONY : acwing/ac2.obj
@@ -2609,6 +2774,54 @@ acwing/ac7.s: acwing/ac7.cpp.s
 acwing/ac7.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac7.dir\build.make CMakeFiles/ac7.dir/acwing/ac7.cpp.s
 .PHONY : acwing/ac7.cpp.s
+
+acwing/ac8.obj: acwing/ac8.cpp.obj
+.PHONY : acwing/ac8.obj
+
+# target to build an object file
+acwing/ac8.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac8.dir\build.make CMakeFiles/ac8.dir/acwing/ac8.cpp.obj
+.PHONY : acwing/ac8.cpp.obj
+
+acwing/ac8.i: acwing/ac8.cpp.i
+.PHONY : acwing/ac8.i
+
+# target to preprocess a source file
+acwing/ac8.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac8.dir\build.make CMakeFiles/ac8.dir/acwing/ac8.cpp.i
+.PHONY : acwing/ac8.cpp.i
+
+acwing/ac8.s: acwing/ac8.cpp.s
+.PHONY : acwing/ac8.s
+
+# target to generate assembly for a file
+acwing/ac8.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac8.dir\build.make CMakeFiles/ac8.dir/acwing/ac8.cpp.s
+.PHONY : acwing/ac8.cpp.s
+
+acwing/ac9.obj: acwing/ac9.cpp.obj
+.PHONY : acwing/ac9.obj
+
+# target to build an object file
+acwing/ac9.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac9.dir\build.make CMakeFiles/ac9.dir/acwing/ac9.cpp.obj
+.PHONY : acwing/ac9.cpp.obj
+
+acwing/ac9.i: acwing/ac9.cpp.i
+.PHONY : acwing/ac9.i
+
+# target to preprocess a source file
+acwing/ac9.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac9.dir\build.make CMakeFiles/ac9.dir/acwing/ac9.cpp.i
+.PHONY : acwing/ac9.cpp.i
+
+acwing/ac9.s: acwing/ac9.cpp.s
+.PHONY : acwing/ac9.s
+
+# target to generate assembly for a file
+acwing/ac9.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ac9.dir\build.make CMakeFiles/ac9.dir/acwing/ac9.cpp.s
+.PHONY : acwing/ac9.cpp.s
 
 ch10/exp10_1.obj: ch10/exp10_1.cpp.obj
 .PHONY : ch10/exp10_1.obj
@@ -6714,6 +6927,126 @@ hust/pra9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\pra9.dir\build.make CMakeFiles/pra9.dir/hust/pra9.cpp.s
 .PHONY : hust/pra9.cpp.s
 
+ky/ky10.obj: ky/ky10.cpp.obj
+.PHONY : ky/ky10.obj
+
+# target to build an object file
+ky/ky10.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky10.dir\build.make CMakeFiles/ky10.dir/ky/ky10.cpp.obj
+.PHONY : ky/ky10.cpp.obj
+
+ky/ky10.i: ky/ky10.cpp.i
+.PHONY : ky/ky10.i
+
+# target to preprocess a source file
+ky/ky10.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky10.dir\build.make CMakeFiles/ky10.dir/ky/ky10.cpp.i
+.PHONY : ky/ky10.cpp.i
+
+ky/ky10.s: ky/ky10.cpp.s
+.PHONY : ky/ky10.s
+
+# target to generate assembly for a file
+ky/ky10.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky10.dir\build.make CMakeFiles/ky10.dir/ky/ky10.cpp.s
+.PHONY : ky/ky10.cpp.s
+
+ky/ky13.obj: ky/ky13.cpp.obj
+.PHONY : ky/ky13.obj
+
+# target to build an object file
+ky/ky13.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky13.dir\build.make CMakeFiles/ky13.dir/ky/ky13.cpp.obj
+.PHONY : ky/ky13.cpp.obj
+
+ky/ky13.i: ky/ky13.cpp.i
+.PHONY : ky/ky13.i
+
+# target to preprocess a source file
+ky/ky13.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky13.dir\build.make CMakeFiles/ky13.dir/ky/ky13.cpp.i
+.PHONY : ky/ky13.cpp.i
+
+ky/ky13.s: ky/ky13.cpp.s
+.PHONY : ky/ky13.s
+
+# target to generate assembly for a file
+ky/ky13.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky13.dir\build.make CMakeFiles/ky13.dir/ky/ky13.cpp.s
+.PHONY : ky/ky13.cpp.s
+
+ky/ky19.obj: ky/ky19.cpp.obj
+.PHONY : ky/ky19.obj
+
+# target to build an object file
+ky/ky19.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky19.dir\build.make CMakeFiles/ky19.dir/ky/ky19.cpp.obj
+.PHONY : ky/ky19.cpp.obj
+
+ky/ky19.i: ky/ky19.cpp.i
+.PHONY : ky/ky19.i
+
+# target to preprocess a source file
+ky/ky19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky19.dir\build.make CMakeFiles/ky19.dir/ky/ky19.cpp.i
+.PHONY : ky/ky19.cpp.i
+
+ky/ky19.s: ky/ky19.cpp.s
+.PHONY : ky/ky19.s
+
+# target to generate assembly for a file
+ky/ky19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky19.dir\build.make CMakeFiles/ky19.dir/ky/ky19.cpp.s
+.PHONY : ky/ky19.cpp.s
+
+ky/ky20.obj: ky/ky20.cpp.obj
+.PHONY : ky/ky20.obj
+
+# target to build an object file
+ky/ky20.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/ky/ky20.cpp.obj
+.PHONY : ky/ky20.cpp.obj
+
+ky/ky20.i: ky/ky20.cpp.i
+.PHONY : ky/ky20.i
+
+# target to preprocess a source file
+ky/ky20.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/ky/ky20.cpp.i
+.PHONY : ky/ky20.cpp.i
+
+ky/ky20.s: ky/ky20.cpp.s
+.PHONY : ky/ky20.s
+
+# target to generate assembly for a file
+ky/ky20.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/ky/ky20.cpp.s
+.PHONY : ky/ky20.cpp.s
+
+ky/ky5.obj: ky/ky5.cpp.obj
+.PHONY : ky/ky5.obj
+
+# target to build an object file
+ky/ky5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky5.dir\build.make CMakeFiles/ky5.dir/ky/ky5.cpp.obj
+.PHONY : ky/ky5.cpp.obj
+
+ky/ky5.i: ky/ky5.cpp.i
+.PHONY : ky/ky5.i
+
+# target to preprocess a source file
+ky/ky5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky5.dir\build.make CMakeFiles/ky5.dir/ky/ky5.cpp.i
+.PHONY : ky/ky5.cpp.i
+
+ky/ky5.s: ky/ky5.cpp.s
+.PHONY : ky/ky5.s
+
+# target to generate assembly for a file
+ky/ky5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky5.dir\build.make CMakeFiles/ky5.dir/ky/ky5.cpp.s
+.PHONY : ky/ky5.cpp.s
+
 test.obj: test.cpp.obj
 .PHONY : test.obj
 
@@ -6747,12 +7080,16 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ac1
+	@echo ... ac10
+	@echo ... ac11
 	@echo ... ac2
 	@echo ... ac3
 	@echo ... ac4
 	@echo ... ac5
 	@echo ... ac6
 	@echo ... ac7
+	@echo ... ac8
+	@echo ... ac9
 	@echo ... exp
 	@echo ... exp10_1
 	@echo ... exp10_2
@@ -6848,6 +7185,11 @@ help:
 	@echo ... exp9_2
 	@echo ... exp9_3
 	@echo ... exp9_4
+	@echo ... ky10
+	@echo ... ky13
+	@echo ... ky19
+	@echo ... ky20
+	@echo ... ky5
 	@echo ... pra1
 	@echo ... pra10
 	@echo ... pra10_1
@@ -6928,6 +7270,12 @@ help:
 	@echo ... acwing/ac1.obj
 	@echo ... acwing/ac1.i
 	@echo ... acwing/ac1.s
+	@echo ... acwing/ac10.obj
+	@echo ... acwing/ac10.i
+	@echo ... acwing/ac10.s
+	@echo ... acwing/ac11.obj
+	@echo ... acwing/ac11.i
+	@echo ... acwing/ac11.s
 	@echo ... acwing/ac2.obj
 	@echo ... acwing/ac2.i
 	@echo ... acwing/ac2.s
@@ -6946,6 +7294,12 @@ help:
 	@echo ... acwing/ac7.obj
 	@echo ... acwing/ac7.i
 	@echo ... acwing/ac7.s
+	@echo ... acwing/ac8.obj
+	@echo ... acwing/ac8.i
+	@echo ... acwing/ac8.s
+	@echo ... acwing/ac9.obj
+	@echo ... acwing/ac9.i
+	@echo ... acwing/ac9.s
 	@echo ... ch10/exp10_1.obj
 	@echo ... ch10/exp10_1.i
 	@echo ... ch10/exp10_1.s
@@ -7459,6 +7813,21 @@ help:
 	@echo ... hust/pra9.obj
 	@echo ... hust/pra9.i
 	@echo ... hust/pra9.s
+	@echo ... ky/ky10.obj
+	@echo ... ky/ky10.i
+	@echo ... ky/ky10.s
+	@echo ... ky/ky13.obj
+	@echo ... ky/ky13.i
+	@echo ... ky/ky13.s
+	@echo ... ky/ky19.obj
+	@echo ... ky/ky19.i
+	@echo ... ky/ky19.s
+	@echo ... ky/ky20.obj
+	@echo ... ky/ky20.i
+	@echo ... ky/ky20.s
+	@echo ... ky/ky5.obj
+	@echo ... ky/ky5.i
+	@echo ... ky/ky5.s
 	@echo ... test.obj
 	@echo ... test.i
 	@echo ... test.s
