@@ -2559,6 +2559,175 @@ ky20/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/build
 .PHONY : ky20/fast
 
+#=============================================================================
+# Target rules for targets named ky23
+
+# Build rule for target.
+ky23: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky23
+.PHONY : ky23
+
+# fast build rule for target.
+ky23/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky23.dir\build.make CMakeFiles/ky23.dir/build
+.PHONY : ky23/fast
+
+#=============================================================================
+# Target rules for targets named ky32
+
+# Build rule for target.
+ky32: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky32
+.PHONY : ky32
+
+# fast build rule for target.
+ky32/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky32.dir\build.make CMakeFiles/ky32.dir/build
+.PHONY : ky32/fast
+
+#=============================================================================
+# Target rules for targets named ky36
+
+# Build rule for target.
+ky36: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky36
+.PHONY : ky36
+
+# fast build rule for target.
+ky36/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky36.dir\build.make CMakeFiles/ky36.dir/build
+.PHONY : ky36/fast
+
+#=============================================================================
+# Target rules for targets named ky60
+
+# Build rule for target.
+ky60: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky60
+.PHONY : ky60
+
+# fast build rule for target.
+ky60/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky60.dir\build.make CMakeFiles/ky60.dir/build
+.PHONY : ky60/fast
+
+#=============================================================================
+# Target rules for targets named ky62
+
+# Build rule for target.
+ky62: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky62
+.PHONY : ky62
+
+# fast build rule for target.
+ky62/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky62.dir\build.make CMakeFiles/ky62.dir/build
+.PHONY : ky62/fast
+
+#=============================================================================
+# Target rules for targets named ky88
+
+# Build rule for target.
+ky88: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky88
+.PHONY : ky88
+
+# fast build rule for target.
+ky88/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky88.dir\build.make CMakeFiles/ky88.dir/build
+.PHONY : ky88/fast
+
+#=============================================================================
+# Target rules for targets named ky97
+
+# Build rule for target.
+ky97: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky97
+.PHONY : ky97
+
+# fast build rule for target.
+ky97/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky97.dir\build.make CMakeFiles/ky97.dir/build
+.PHONY : ky97/fast
+
+#=============================================================================
+# Target rules for targets named ky111
+
+# Build rule for target.
+ky111: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky111
+.PHONY : ky111
+
+# fast build rule for target.
+ky111/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky111.dir\build.make CMakeFiles/ky111.dir/build
+.PHONY : ky111/fast
+
+#=============================================================================
+# Target rules for targets named ky74
+
+# Build rule for target.
+ky74: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky74
+.PHONY : ky74
+
+# fast build rule for target.
+ky74/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky74.dir\build.make CMakeFiles/ky74.dir/build
+.PHONY : ky74/fast
+
+#=============================================================================
+# Target rules for targets named ky76
+
+# Build rule for target.
+ky76: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky76
+.PHONY : ky76
+
+# fast build rule for target.
+ky76/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky76.dir\build.make CMakeFiles/ky76.dir/build
+.PHONY : ky76/fast
+
+#=============================================================================
+# Target rules for targets named ky82
+
+# Build rule for target.
+ky82: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky82
+.PHONY : ky82
+
+# fast build rule for target.
+ky82/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky82.dir\build.make CMakeFiles/ky82.dir/build
+.PHONY : ky82/fast
+
+#=============================================================================
+# Target rules for targets named ky145
+
+# Build rule for target.
+ky145: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky145
+.PHONY : ky145
+
+# fast build rule for target.
+ky145/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky145.dir\build.make CMakeFiles/ky145.dir/build
+.PHONY : ky145/fast
+
+#=============================================================================
+# Target rules for targets named ky154
+
+# Build rule for target.
+ky154: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ky154
+.PHONY : ky154
+
+# fast build rule for target.
+ky154/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky154.dir\build.make CMakeFiles/ky154.dir/build
+.PHONY : ky154/fast
+
 acwing/ac1.obj: acwing/ac1.cpp.obj
 .PHONY : acwing/ac1.obj
 
@@ -6951,6 +7120,30 @@ ky/ky10.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky10.dir\build.make CMakeFiles/ky10.dir/ky/ky10.cpp.s
 .PHONY : ky/ky10.cpp.s
 
+ky/ky111.obj: ky/ky111.cpp.obj
+.PHONY : ky/ky111.obj
+
+# target to build an object file
+ky/ky111.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky111.dir\build.make CMakeFiles/ky111.dir/ky/ky111.cpp.obj
+.PHONY : ky/ky111.cpp.obj
+
+ky/ky111.i: ky/ky111.cpp.i
+.PHONY : ky/ky111.i
+
+# target to preprocess a source file
+ky/ky111.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky111.dir\build.make CMakeFiles/ky111.dir/ky/ky111.cpp.i
+.PHONY : ky/ky111.cpp.i
+
+ky/ky111.s: ky/ky111.cpp.s
+.PHONY : ky/ky111.s
+
+# target to generate assembly for a file
+ky/ky111.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky111.dir\build.make CMakeFiles/ky111.dir/ky/ky111.cpp.s
+.PHONY : ky/ky111.cpp.s
+
 ky/ky13.obj: ky/ky13.cpp.obj
 .PHONY : ky/ky13.obj
 
@@ -6974,6 +7167,54 @@ ky/ky13.s: ky/ky13.cpp.s
 ky/ky13.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky13.dir\build.make CMakeFiles/ky13.dir/ky/ky13.cpp.s
 .PHONY : ky/ky13.cpp.s
+
+ky/ky145.obj: ky/ky145.cpp.obj
+.PHONY : ky/ky145.obj
+
+# target to build an object file
+ky/ky145.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky145.dir\build.make CMakeFiles/ky145.dir/ky/ky145.cpp.obj
+.PHONY : ky/ky145.cpp.obj
+
+ky/ky145.i: ky/ky145.cpp.i
+.PHONY : ky/ky145.i
+
+# target to preprocess a source file
+ky/ky145.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky145.dir\build.make CMakeFiles/ky145.dir/ky/ky145.cpp.i
+.PHONY : ky/ky145.cpp.i
+
+ky/ky145.s: ky/ky145.cpp.s
+.PHONY : ky/ky145.s
+
+# target to generate assembly for a file
+ky/ky145.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky145.dir\build.make CMakeFiles/ky145.dir/ky/ky145.cpp.s
+.PHONY : ky/ky145.cpp.s
+
+ky/ky154.obj: ky/ky154.cpp.obj
+.PHONY : ky/ky154.obj
+
+# target to build an object file
+ky/ky154.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky154.dir\build.make CMakeFiles/ky154.dir/ky/ky154.cpp.obj
+.PHONY : ky/ky154.cpp.obj
+
+ky/ky154.i: ky/ky154.cpp.i
+.PHONY : ky/ky154.i
+
+# target to preprocess a source file
+ky/ky154.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky154.dir\build.make CMakeFiles/ky154.dir/ky/ky154.cpp.i
+.PHONY : ky/ky154.cpp.i
+
+ky/ky154.s: ky/ky154.cpp.s
+.PHONY : ky/ky154.s
+
+# target to generate assembly for a file
+ky/ky154.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky154.dir\build.make CMakeFiles/ky154.dir/ky/ky154.cpp.s
+.PHONY : ky/ky154.cpp.s
 
 ky/ky19.obj: ky/ky19.cpp.obj
 .PHONY : ky/ky19.obj
@@ -7023,6 +7264,78 @@ ky/ky20.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky20.dir\build.make CMakeFiles/ky20.dir/ky/ky20.cpp.s
 .PHONY : ky/ky20.cpp.s
 
+ky/ky23.obj: ky/ky23.cpp.obj
+.PHONY : ky/ky23.obj
+
+# target to build an object file
+ky/ky23.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky23.dir\build.make CMakeFiles/ky23.dir/ky/ky23.cpp.obj
+.PHONY : ky/ky23.cpp.obj
+
+ky/ky23.i: ky/ky23.cpp.i
+.PHONY : ky/ky23.i
+
+# target to preprocess a source file
+ky/ky23.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky23.dir\build.make CMakeFiles/ky23.dir/ky/ky23.cpp.i
+.PHONY : ky/ky23.cpp.i
+
+ky/ky23.s: ky/ky23.cpp.s
+.PHONY : ky/ky23.s
+
+# target to generate assembly for a file
+ky/ky23.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky23.dir\build.make CMakeFiles/ky23.dir/ky/ky23.cpp.s
+.PHONY : ky/ky23.cpp.s
+
+ky/ky32.obj: ky/ky32.cpp.obj
+.PHONY : ky/ky32.obj
+
+# target to build an object file
+ky/ky32.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky32.dir\build.make CMakeFiles/ky32.dir/ky/ky32.cpp.obj
+.PHONY : ky/ky32.cpp.obj
+
+ky/ky32.i: ky/ky32.cpp.i
+.PHONY : ky/ky32.i
+
+# target to preprocess a source file
+ky/ky32.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky32.dir\build.make CMakeFiles/ky32.dir/ky/ky32.cpp.i
+.PHONY : ky/ky32.cpp.i
+
+ky/ky32.s: ky/ky32.cpp.s
+.PHONY : ky/ky32.s
+
+# target to generate assembly for a file
+ky/ky32.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky32.dir\build.make CMakeFiles/ky32.dir/ky/ky32.cpp.s
+.PHONY : ky/ky32.cpp.s
+
+ky/ky36.obj: ky/ky36.cpp.obj
+.PHONY : ky/ky36.obj
+
+# target to build an object file
+ky/ky36.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky36.dir\build.make CMakeFiles/ky36.dir/ky/ky36.cpp.obj
+.PHONY : ky/ky36.cpp.obj
+
+ky/ky36.i: ky/ky36.cpp.i
+.PHONY : ky/ky36.i
+
+# target to preprocess a source file
+ky/ky36.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky36.dir\build.make CMakeFiles/ky36.dir/ky/ky36.cpp.i
+.PHONY : ky/ky36.cpp.i
+
+ky/ky36.s: ky/ky36.cpp.s
+.PHONY : ky/ky36.s
+
+# target to generate assembly for a file
+ky/ky36.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky36.dir\build.make CMakeFiles/ky36.dir/ky/ky36.cpp.s
+.PHONY : ky/ky36.cpp.s
+
 ky/ky5.obj: ky/ky5.cpp.obj
 .PHONY : ky/ky5.obj
 
@@ -7046,6 +7359,174 @@ ky/ky5.s: ky/ky5.cpp.s
 ky/ky5.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky5.dir\build.make CMakeFiles/ky5.dir/ky/ky5.cpp.s
 .PHONY : ky/ky5.cpp.s
+
+ky/ky60.obj: ky/ky60.cpp.obj
+.PHONY : ky/ky60.obj
+
+# target to build an object file
+ky/ky60.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky60.dir\build.make CMakeFiles/ky60.dir/ky/ky60.cpp.obj
+.PHONY : ky/ky60.cpp.obj
+
+ky/ky60.i: ky/ky60.cpp.i
+.PHONY : ky/ky60.i
+
+# target to preprocess a source file
+ky/ky60.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky60.dir\build.make CMakeFiles/ky60.dir/ky/ky60.cpp.i
+.PHONY : ky/ky60.cpp.i
+
+ky/ky60.s: ky/ky60.cpp.s
+.PHONY : ky/ky60.s
+
+# target to generate assembly for a file
+ky/ky60.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky60.dir\build.make CMakeFiles/ky60.dir/ky/ky60.cpp.s
+.PHONY : ky/ky60.cpp.s
+
+ky/ky62.obj: ky/ky62.cpp.obj
+.PHONY : ky/ky62.obj
+
+# target to build an object file
+ky/ky62.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky62.dir\build.make CMakeFiles/ky62.dir/ky/ky62.cpp.obj
+.PHONY : ky/ky62.cpp.obj
+
+ky/ky62.i: ky/ky62.cpp.i
+.PHONY : ky/ky62.i
+
+# target to preprocess a source file
+ky/ky62.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky62.dir\build.make CMakeFiles/ky62.dir/ky/ky62.cpp.i
+.PHONY : ky/ky62.cpp.i
+
+ky/ky62.s: ky/ky62.cpp.s
+.PHONY : ky/ky62.s
+
+# target to generate assembly for a file
+ky/ky62.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky62.dir\build.make CMakeFiles/ky62.dir/ky/ky62.cpp.s
+.PHONY : ky/ky62.cpp.s
+
+ky/ky74.obj: ky/ky74.cpp.obj
+.PHONY : ky/ky74.obj
+
+# target to build an object file
+ky/ky74.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky74.dir\build.make CMakeFiles/ky74.dir/ky/ky74.cpp.obj
+.PHONY : ky/ky74.cpp.obj
+
+ky/ky74.i: ky/ky74.cpp.i
+.PHONY : ky/ky74.i
+
+# target to preprocess a source file
+ky/ky74.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky74.dir\build.make CMakeFiles/ky74.dir/ky/ky74.cpp.i
+.PHONY : ky/ky74.cpp.i
+
+ky/ky74.s: ky/ky74.cpp.s
+.PHONY : ky/ky74.s
+
+# target to generate assembly for a file
+ky/ky74.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky74.dir\build.make CMakeFiles/ky74.dir/ky/ky74.cpp.s
+.PHONY : ky/ky74.cpp.s
+
+ky/ky76.obj: ky/ky76.cpp.obj
+.PHONY : ky/ky76.obj
+
+# target to build an object file
+ky/ky76.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky76.dir\build.make CMakeFiles/ky76.dir/ky/ky76.cpp.obj
+.PHONY : ky/ky76.cpp.obj
+
+ky/ky76.i: ky/ky76.cpp.i
+.PHONY : ky/ky76.i
+
+# target to preprocess a source file
+ky/ky76.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky76.dir\build.make CMakeFiles/ky76.dir/ky/ky76.cpp.i
+.PHONY : ky/ky76.cpp.i
+
+ky/ky76.s: ky/ky76.cpp.s
+.PHONY : ky/ky76.s
+
+# target to generate assembly for a file
+ky/ky76.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky76.dir\build.make CMakeFiles/ky76.dir/ky/ky76.cpp.s
+.PHONY : ky/ky76.cpp.s
+
+ky/ky82.obj: ky/ky82.cpp.obj
+.PHONY : ky/ky82.obj
+
+# target to build an object file
+ky/ky82.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky82.dir\build.make CMakeFiles/ky82.dir/ky/ky82.cpp.obj
+.PHONY : ky/ky82.cpp.obj
+
+ky/ky82.i: ky/ky82.cpp.i
+.PHONY : ky/ky82.i
+
+# target to preprocess a source file
+ky/ky82.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky82.dir\build.make CMakeFiles/ky82.dir/ky/ky82.cpp.i
+.PHONY : ky/ky82.cpp.i
+
+ky/ky82.s: ky/ky82.cpp.s
+.PHONY : ky/ky82.s
+
+# target to generate assembly for a file
+ky/ky82.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky82.dir\build.make CMakeFiles/ky82.dir/ky/ky82.cpp.s
+.PHONY : ky/ky82.cpp.s
+
+ky/ky88.obj: ky/ky88.cpp.obj
+.PHONY : ky/ky88.obj
+
+# target to build an object file
+ky/ky88.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky88.dir\build.make CMakeFiles/ky88.dir/ky/ky88.cpp.obj
+.PHONY : ky/ky88.cpp.obj
+
+ky/ky88.i: ky/ky88.cpp.i
+.PHONY : ky/ky88.i
+
+# target to preprocess a source file
+ky/ky88.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky88.dir\build.make CMakeFiles/ky88.dir/ky/ky88.cpp.i
+.PHONY : ky/ky88.cpp.i
+
+ky/ky88.s: ky/ky88.cpp.s
+.PHONY : ky/ky88.s
+
+# target to generate assembly for a file
+ky/ky88.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky88.dir\build.make CMakeFiles/ky88.dir/ky/ky88.cpp.s
+.PHONY : ky/ky88.cpp.s
+
+ky/ky97.obj: ky/ky97.cpp.obj
+.PHONY : ky/ky97.obj
+
+# target to build an object file
+ky/ky97.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky97.dir\build.make CMakeFiles/ky97.dir/ky/ky97.cpp.obj
+.PHONY : ky/ky97.cpp.obj
+
+ky/ky97.i: ky/ky97.cpp.i
+.PHONY : ky/ky97.i
+
+# target to preprocess a source file
+ky/ky97.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky97.dir\build.make CMakeFiles/ky97.dir/ky/ky97.cpp.i
+.PHONY : ky/ky97.cpp.i
+
+ky/ky97.s: ky/ky97.cpp.s
+.PHONY : ky/ky97.s
+
+# target to generate assembly for a file
+ky/ky97.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ky97.dir\build.make CMakeFiles/ky97.dir/ky/ky97.cpp.s
+.PHONY : ky/ky97.cpp.s
 
 test.obj: test.cpp.obj
 .PHONY : test.obj
@@ -7186,10 +7667,23 @@ help:
 	@echo ... exp9_3
 	@echo ... exp9_4
 	@echo ... ky10
+	@echo ... ky111
 	@echo ... ky13
+	@echo ... ky145
+	@echo ... ky154
 	@echo ... ky19
 	@echo ... ky20
+	@echo ... ky23
+	@echo ... ky32
+	@echo ... ky36
 	@echo ... ky5
+	@echo ... ky60
+	@echo ... ky62
+	@echo ... ky74
+	@echo ... ky76
+	@echo ... ky82
+	@echo ... ky88
+	@echo ... ky97
 	@echo ... pra1
 	@echo ... pra10
 	@echo ... pra10_1
@@ -7816,18 +8310,57 @@ help:
 	@echo ... ky/ky10.obj
 	@echo ... ky/ky10.i
 	@echo ... ky/ky10.s
+	@echo ... ky/ky111.obj
+	@echo ... ky/ky111.i
+	@echo ... ky/ky111.s
 	@echo ... ky/ky13.obj
 	@echo ... ky/ky13.i
 	@echo ... ky/ky13.s
+	@echo ... ky/ky145.obj
+	@echo ... ky/ky145.i
+	@echo ... ky/ky145.s
+	@echo ... ky/ky154.obj
+	@echo ... ky/ky154.i
+	@echo ... ky/ky154.s
 	@echo ... ky/ky19.obj
 	@echo ... ky/ky19.i
 	@echo ... ky/ky19.s
 	@echo ... ky/ky20.obj
 	@echo ... ky/ky20.i
 	@echo ... ky/ky20.s
+	@echo ... ky/ky23.obj
+	@echo ... ky/ky23.i
+	@echo ... ky/ky23.s
+	@echo ... ky/ky32.obj
+	@echo ... ky/ky32.i
+	@echo ... ky/ky32.s
+	@echo ... ky/ky36.obj
+	@echo ... ky/ky36.i
+	@echo ... ky/ky36.s
 	@echo ... ky/ky5.obj
 	@echo ... ky/ky5.i
 	@echo ... ky/ky5.s
+	@echo ... ky/ky60.obj
+	@echo ... ky/ky60.i
+	@echo ... ky/ky60.s
+	@echo ... ky/ky62.obj
+	@echo ... ky/ky62.i
+	@echo ... ky/ky62.s
+	@echo ... ky/ky74.obj
+	@echo ... ky/ky74.i
+	@echo ... ky/ky74.s
+	@echo ... ky/ky76.obj
+	@echo ... ky/ky76.i
+	@echo ... ky/ky76.s
+	@echo ... ky/ky82.obj
+	@echo ... ky/ky82.i
+	@echo ... ky/ky82.s
+	@echo ... ky/ky88.obj
+	@echo ... ky/ky88.i
+	@echo ... ky/ky88.s
+	@echo ... ky/ky97.obj
+	@echo ... ky/ky97.i
+	@echo ... ky/ky97.s
 	@echo ... test.obj
 	@echo ... test.i
 	@echo ... test.s

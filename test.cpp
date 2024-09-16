@@ -2,36 +2,12 @@
 // Created by muyou on 2024/7/31.
 //
 #include "iostream"
+#include "string"
 
 using namespace std;
 
-const int MAXN = 10000;
-int dp[MAXN];
-int w[MAXN];
-int v[MAXN];
-
 int main() {
-    int m, n;
-    cin >> m >> n;
-    int sum = 0;
-    int k = 0;
-    for (int i = 0; i < n; ++i) {
-        int p, h, c;
-        cin >> p >> h >> c;
-        sum += k;
-        for (int j = 0; j < c; ++j) {
-            w[k] = p;
-            v[k] = h;
-            k++;
-        }
-    }
-    for (int i = 0; i < sum; ++i) {
-        dp[i] = 0;
-    }
-    for (int i = 0; i < n; ++i) {
-        for (int j = m; j >= w[i]; --j) {
-            dp[j] = max(dp[j], dp[j - w[i]] + v[i]);
-        }
-    }
-    cout << dp[m] << endl;
+    char str[10000];
+    sscanf("123456abcdedfBCDEF", "%[1-9a-z]", str);
+    cout << str;
 }
